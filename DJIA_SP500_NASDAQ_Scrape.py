@@ -25,8 +25,16 @@ for row in tableElem.findAll('tr')[1:]:
     company = company.split(",")
     stocks.append(company[2])
 
-stocks.sort()
+import csv
+with open("../companylist.csv", 'r') as csvfile:
+    stockReader = csv.reader(csvfile)
+    for row in stockReader:
+        stocks.append(row[1])
 
+stocks = set(stocks)
+stocks = list(stocks)
+stocks.sort()
+print(stocks)
 with open('Stocks.txt', 'w') as f:
     for x in stocks:
         f.write(x + "\n")
