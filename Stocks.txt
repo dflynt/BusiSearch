@@ -1,0 +1,535 @@
+3M
+3M Company
+A.O. Smith Corp
+AES Corp
+AFLAC Inc
+AMETEK Inc
+ANSYS
+AT&T Inc
+AbbVie Inc.
+Abbott Laboratories
+Accenture plc
+Activision Blizzard
+Acuity Brands Inc
+Adobe Systems Inc
+Advance Auto Parts
+Advanced Micro Devices Inc
+Aetna Inc
+Affiliated Managers Group Inc
+Agilent Technologies Inc
+Air Products & Chemicals Inc
+Akamai Technologies Inc
+Alaska Air Group Inc
+Albemarle Corp
+Alexandria Real Estate Equities Inc
+Alexion Pharmaceuticals
+Align Technology
+Allegion
+Allergan
+Alliance Data Systems
+Alliant Energy Corp
+Allstate Corp
+Alphabet Inc Class A
+Alphabet Inc Class C
+Altria Group Inc
+Amazon.com Inc
+Ameren Corp
+American Airlines Group
+American Electric Power
+American Express
+American Express Co
+American International Group
+American Tower Corp A
+American Water Works Company Inc
+Ameriprise Financial
+AmerisourceBergen Corp
+Amgen Inc
+Amphenol Corp
+Anadarko Petroleum Corp
+Analog Devices
+Andeavor
+Anthem Inc.
+Aon plc
+Apache Corporation
+Apartment Investment & Management
+Apple
+Apple Inc.
+Applied Materials Inc
+Aptiv Plc
+Archer-Daniels-Midland Co
+Arconic Inc
+Arthur J. Gallagher & Co.
+Assurant Inc
+AutoZone Inc
+Autodesk Inc
+Automatic Data Processing
+AvalonBay Communities
+Avery Dennison Corp
+BB&T Corporation
+Baker Hughes
+Ball Corp
+Bank of America Corp
+Baxter International Inc.
+Becton Dickinson
+Berkshire Hathaway
+Best Buy Co. Inc.
+Biogen Inc.
+BlackRock
+Block H&R
+Boeing
+Boeing Company
+BorgWarner
+Boston Properties
+Boston Scientific
+Brighthouse Financial Inc
+Bristol-Myers Squibb
+Broadcom
+Brown-Forman Corp.
+C. H. Robinson Worldwide
+CA
+CBOE Holdings
+CBRE Group
+CBS Corp.
+CF Industries Holdings Inc
+CIGNA Corp.
+CME Group Inc.
+CMS Energy
+CSRA Inc.
+CSX Corp.
+CVS Health
+Cabot Oil & Gas
+Cadence Design Systems
+Campbell Soup
+Capital One Financial
+Cardinal Health Inc.
+Carmax Inc
+Carnival Corp.
+Caterpillar
+Caterpillar Inc.
+Celgene Corp.
+Centene Corporation
+CenterPoint Energy
+CenturyLink Inc
+Cerner
+Charles Schwab Corporation
+Charter Communications
+Chesapeake Energy
+Chevron
+Chevron Corp.
+Chipotle Mexican Grill
+Chubb Limited
+Church & Dwight
+Cimarex Energy
+Cincinnati Financial
+Cintas Corporation
+Cisco Systems
+Cisco Systems
+Citigroup Inc.
+Citizens Financial Group
+Citrix Systems
+Coca-Cola
+Coca-Cola Company (The)
+Cognizant Technology Solutions
+Colgate-Palmolive
+Comcast Corp.
+Comerica Inc.
+Conagra Brands
+Concho Resources
+ConocoPhillips
+Consolidated Edison
+Constellation Brands
+Corning Inc.
+Costco Wholesale Corp.
+Coty
+Crown Castle International Corp.
+Cummins Inc.
+D. R. Horton
+DTE Energy Co.
+DXC Technology
+DaVita Inc.
+Danaher Corp.
+Darden Restaurants
+Deere & Co.
+Delta Air Lines Inc.
+Dentsply Sirona
+Devon Energy Corp.
+Digital Realty Trust Inc
+Discover Financial Services
+Discovery Communications-A
+Discovery Communications-C
+Dish Network
+Dollar General
+Dollar Tree
+Dominion Energy
+Dover Corp.
+DowDuPont
+DowDuPont
+Dr Pepper Snapple Group
+Duke Energy
+Duke Realty Corp
+E*Trade
+EOG Resources
+EQT Corporation
+Eastman Chemical
+Eaton Corporation
+Ecolab Inc.
+Edison Int'l
+Edwards Lifesciences
+Electronic Arts
+Emerson Electric Company
+Entergy Corp.
+Envision Healthcare
+Equifax Inc.
+Equinix
+Equity Residential
+Essex Property Trust
+Estee Lauder Cos.
+Everest Re Group Ltd.
+Eversource Energy
+Exelon Corp.
+Expedia Inc.
+Expeditors International
+Express Scripts
+Extra Space Storage
+Exxon Mobil Corp.
+ExxonMobil
+F5 Networks
+FLIR Systems
+FMC Corporation
+Facebook
+Fastenal Co
+FedEx Corporation
+Federal Realty Investment Trust
+Fidelity National Information Services
+Fifth Third Bancorp
+FirstEnergy Corp
+Fiserv Inc
+Flowserve Corporation
+Fluor Corp.
+Foot Locker Inc
+Ford Motor
+Fortive Corp
+Fortune Brands Home & Security
+Franklin Resources
+Freeport-McMoRan Inc.
+Gap Inc.
+Garmin Ltd.
+Gartner Inc
+General Dynamics
+General Electric
+General Electric
+General Growth Properties Inc.
+General Mills
+General Motors
+Genuine Parts
+Gilead Sciences
+Global Payments Inc
+Goldman Sachs
+Goldman Sachs Group
+Goodyear Tire & Rubber
+Grainger (W.W.) Inc.
+HCA Holdings
+HCP Inc.
+HP Inc.
+Halliburton Co.
+Hanesbrands Inc
+Harley-Davidson
+Harris Corporation
+Hartford Financial Svc.Gp.
+Hasbro Inc.
+Helmerich & Payne
+Henry Schein
+Hess Corporation
+Hewlett Packard Enterprise
+Hilton Worldwide Holdings Inc
+Hologic
+Home Depot
+Honeywell Int'l Inc.
+Hormel Foods Corp.
+Host Hotels & Resorts
+Humana Inc.
+Huntington Bancshares
+Huntington Ingalls Industries
+IBM
+IDEXX Laboratories
+IHS Markit Ltd.
+IQVIA Holdings Inc.
+Illinois Tool Works
+Illumina Inc
+Incyte
+Ingersoll-Rand PLC
+Intel
+Intel Corp.
+Intercontinental Exchange
+International Business Machines
+International Paper
+Interpublic Group
+Intl Flavors & Fragrances
+Intuit Inc.
+Intuitive Surgical Inc.
+Invesco Ltd.
+Iron Mountain Incorporated
+J. B. Hunt Transport Services
+JM Smucker
+JPMorgan Chase
+JPMorgan Chase & Co.
+Jacobs Engineering Group
+Johnson & Johnson
+Johnson & Johnson
+Johnson Controls International
+Juniper Networks
+KLA-Tencor Corp.
+Kansas City Southern
+Kellogg Co.
+KeyCorp
+Kimberly-Clark
+Kimco Realty
+Kinder Morgan
+Kohl's Corp.
+Kraft Heinz Co
+Kroger Co.
+L Brands Inc.
+L-3 Communications Holdings
+LKQ Corporation
+Laboratory Corp. of America Holding
+Lam Research
+Leggett & Platt
+Lennar Corp.
+Leucadia National Corp.
+Lilly (Eli) & Co.
+Lincoln National
+Lockheed Martin Corp.
+Loews Corp.
+Lowe's Cos.
+LyondellBasell
+M&T Bank Corp.
+MGM Resorts International
+Macerich
+Macy's Inc.
+Marathon Oil Corp.
+Marathon Petroleum
+Marriott Int'l.
+Marsh & McLennan
+Martin Marietta Materials
+Masco Corp.
+Mastercard Inc.
+Mattel Inc.
+McCormick & Co.
+McDonald's
+McDonald's Corp.
+McKesson Corp.
+Medtronic plc
+Merck
+Merck & Co.
+MetLife Inc.
+Mettler Toledo
+Michael Kors Holdings
+Microchip Technology
+Micron Technology
+Microsoft
+Microsoft Corp.
+Mid-America Apartments
+Mohawk Industries
+Molson Coors Brewing Company
+Mondelez International
+Monsanto Co.
+Monster Beverage
+Moody's Corp
+Morgan Stanley
+Motorola Solutions Inc.
+Mylan N.V.
+NRG Energy
+Nasdaq
+National Oilwell Varco Inc.
+Navient
+NetApp
+Netflix Inc.
+Newell Brands
+Newfield Exploration Co
+Newmont Mining Corporation
+News Corp. Class A
+News Corp. Class B
+NextEra Energy
+NiSource Inc.
+Nielsen Holdings
+Nike
+Nike
+Noble Energy Inc
+Nordstrom
+Norfolk Southern Corp.
+Northern Trust Corp.
+Northrop Grumman Corp.
+Norwegian Cruise Line
+Nucor Corp.
+Nvidia Corporation
+O'Reilly Automotive
+ONEOK
+Occidental Petroleum
+Omnicom Group
+Oracle Corp.
+PACCAR Inc.
+PG&E Corp.
+PNC Financial Services
+PPG Industries
+PPL Corp.
+PVH Corp.
+Packaging Corporation of America
+Parker-Hannifin
+Patterson Companies
+PayPal
+Paychex Inc.
+Pentair Ltd.
+People's United Financial
+PepsiCo Inc.
+PerkinElmer
+Perrigo
+Pfizer
+Pfizer Inc.
+Philip Morris International
+Phillips 66
+Pinnacle West Capital
+Pioneer Natural Resources
+Polo Ralph Lauren Corp.
+Praxair Inc.
+Priceline.com Inc
+Principal Financial Group
+Procter & Gamble
+Procter & Gamble
+Progressive Corp.
+Prologis
+Prudential Financial
+Public Serv. Enterprise Inc.
+Public Storage
+Pulte Homes Inc.
+QUALCOMM Inc.
+Qorvo
+Quanta Services Inc.
+Quest Diagnostics
+Range Resources Corp.
+Raymond James Financial Inc.
+Raytheon Co.
+Realty Income Corporation
+Red Hat Inc.
+Regency Centers Corporation
+Regeneron
+Regions Financial Corp.
+Republic Services Inc
+ResMed
+Robert Half International
+Rockwell Automation Inc.
+Rockwell Collins
+Roper Technologies
+Ross Stores
+Royal Caribbean Cruises Ltd
+S&P Global
+SBA Communications
+SCANA Corp
+SL Green Realty
+Salesforce.com
+Schlumberger Ltd.
+Scripps Networks Interactive Inc.
+Seagate Technology
+Sealed Air
+Sempra Energy
+Sherwin-Williams
+Signet Jewelers
+Simon Property Group Inc
+Skyworks Solutions
+Snap-On Inc.
+Southern Co.
+Southwest Airlines
+Stanley Black & Decker
+Starbucks Corp.
+State Street Corp.
+Stericycle Inc
+Stryker Corp.
+SunTrust Banks
+Symantec Corp.
+Synchrony Financial
+Synopsys Inc.
+Sysco Corp.
+T. Rowe Price Group
+TE Connectivity Ltd.
+TJX Companies Inc.
+Tapestry
+Target Corp.
+TechnipFMC
+Texas Instruments
+Textron Inc.
+The Bank of New York Mellon Corp.
+The Clorox Company
+The Cooper Companies
+The Hershey Company
+The Home Depot
+The Mosaic Company
+The Travelers Companies Inc.
+The Walt Disney Company
+Thermo Fisher Scientific
+Tiffany & Co.
+Time Warner Inc.
+Torchmark Corp.
+Total System Services
+Tractor Supply Company
+TransDigm Group
+Travelers
+TripAdvisor
+Twenty-First Century Fox Class A
+Twenty-First Century Fox Class B
+Tyson Foods
+U.S. Bancorp
+UDR Inc
+Ulta Salon Cosmetics & Fragrance Inc
+Under Armour Class A
+Under Armour Class C
+Union Pacific
+United Continental Holdings
+United Health Group Inc.
+United Parcel Service
+United Rentals
+United Technologies
+United Technologies
+UnitedHealth Group
+Universal Health Services
+Unum Group
+V.F. Corp.
+Valero Energy
+Varian Medical Systems
+Ventas Inc
+Verisign Inc.
+Verisk Analytics
+Verizon
+Verizon Communications
+Vertex Pharmaceuticals Inc
+Viacom Inc.
+Visa
+Visa Inc.
+Vornado Realty Trust
+Vulcan Materials
+Wal-Mart Stores
+Walgreens Boots Alliance
+Walmart
+Walt Disney
+Waste Management Inc.
+Waters Corporation
+Wec Energy Group Inc
+Wells Fargo
+Welltower Inc.
+WestRock Company
+Western Digital
+Western Union Co
+Weyerhaeuser Corp.
+Whirlpool Corp.
+Williams Cos.
+Willis Towers Watson
+Wyndham Worldwide
+Wynn Resorts Ltd
+XL Capital
+Xcel Energy Inc
+Xerox Corp.
+Xilinx Inc
+Xylem Inc.
+Yum! Brands Inc
+Zimmer Biomet Holdings
+Zions Bancorp
+Zoetis
+eBay Inc.
