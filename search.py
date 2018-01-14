@@ -29,11 +29,12 @@ with open("Stocks.txt", 'r') as f, open("example.txt", 'r') as f2:
             line = line.rstrip("\n")
             line = line.split(" ")
             #for each word in the line, starting at EOL
-            for x in range(len(line) - 1, -1, -1): 
+            for x in range(len(line) - 1, -1, -1):
+                line[x] = line[x].replace("'s", "") #parses noun possession 
                 checkBusiness(line, x, line[x], 0)
     f2.close()
     stocks = stocks.split("\n") #put each stock in it's own index
-     
+
     '''
     This for loop removes "businesses" that were added because they equaled a portion 
     of one business in stock.txt
