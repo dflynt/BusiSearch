@@ -1,13 +1,17 @@
 import csv
 stocks = []
-items_to_remove = ["corporation", "company", "inc", "inc.", "corp.", "corp,", "Co.", "co.", "Co", "co",
-                    ".com", ".net", "capital", "financial", "ltd", "Ltd", "ltd.", "Ltd.", "lp", "(the)", "the", "limited", "partnership"]
+items_to_remove = ["corporation", "company", "company,", "inc", "inc.", "inc.,", 
+                    "corp", "co", "&", "(", " & co", "and co.", "& co.",
+                    ".com", ".net", "capital", "financial", "ltd", "lp", "llc", "(the)", "the", "limited",
+                    "partnership", "incorporated","companies", "incorporated", "solutions", "technology", "technologies",
+                    "fund", "trust", "plc", ]
 def checkRow(row):
         name = row[1].lower()
+        name = name.replace("\n", "").replace(",","").replace(".com","").replace(".net", "").replace(".", "")
         name = name.split(" ")
-        company = [n for n in name if n not in items_to_remove]
+        company = [n for n in name if n.lower() not in items_to_remove]
         company = " ".join(company)
-        stocks.append(company.replace(",","").replace(".","").replace("com", "").replace(".net", ""))
+        stocks.append(company) #inc isn't removed above for unknown reason
 with open("companylist.csv", 'r') as csvfile:
     stockReader = csv.reader(csvfile)
     for row in stockReader:
@@ -29,7 +33,6 @@ csvfile3.close()
 stocks = set(stocks)
 stocks = list(stocks)
 stocks.sort()
-print(len(stocks))
 with open("Stocks.txt", 'w') as f:
     for x in stocks:
         f.write(x + "\n")

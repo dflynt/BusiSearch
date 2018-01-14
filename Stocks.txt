@@ -1,3 +1,4 @@
+
 1-800 flowers
 1347 property insurance holdings
 180 degree
@@ -26,36 +27,36 @@ abb
 abbott laboratories
 abbvie
 abeona therapeutics
-abercrombie & fitch
-aberdeen asia-pacific ine fund
-aberdeen australia equity fund
-aberdeen chile fund
-aberdeen emerging markets smaller opportunities fund i
-aberdeen global ine fund
-aberdeen greater china fund
-aberdeen indonesia fund
-aberdeen ine credit strategies fund
-aberdeen israel fund
-aberdeen japan equity fund 
-aberdeen singapore fund
+abercrombie fitch
+aberdeen asia-pacific income
+aberdeen australia equity
+aberdeen chile
+aberdeen emerging markets smaller opportunities i
+aberdeen global income
+aberdeen greater china
+aberdeen income credit strategies
+aberdeen indonesia
+aberdeen israel
+aberdeen japan equity 
+aberdeen singapore
 ability
 abiomed
 ablynx nv
-abm industries incorporated
+abm industries
 abraxas petroleum
 ac immune sa
-acacia munications
+acacia communications
 acacia research
-acadia healthcare pany
+acadia healthcare
 acadia pharmaceuticals
-acadia realty trust
+acadia realty
 acasti pharma
 accelerate diagnostics
 acceleron pharma
-accenture plc
+accenture
 access national
 acco brands
-accuray incorporated
+accuray
 acelrx pharmaceuticals
 acer therapeutics
 aceto
@@ -65,7 +66,7 @@ achillion pharmaceuticals
 aci worldwide
 aclaris therapeutics
 acm research
-acme united corporation
+acme united
 acnb
 acorda therapeutics
 acorn international
@@ -79,17 +80,17 @@ acushnet holdings
 acxiom
 adamas pharmaceuticals
 adamis pharmaceuticals
-adams diversified equity fund
-adams natural resources fund
-adams resources & energy
-adaptimmune therapeutics plc
+adams diversified equity
+adams natural resources
+adams resources energy
+adaptimmune therapeutics
 addus homecare
-addvantage technologies group
+addvantage group
 adecoagro sa
-adesto technologies
-adient plc
+adesto
+adient
 adma biologics
-adobe systems incorporated
+adobe systems
 adomani
 adtalem global education
 adtran
@@ -98,21 +99,21 @@ advance auto parts
 advanced accelerator applications sa
 advanced disposal services
 advanced drainage systems
-advanced emissions solutions
+advanced emissions
 advanced energy industries
 advanced micro devices
 advanced semiconductor engineering
 advansix
-advantage oil & gas
+advantage oil gas
 advaxis
-advent claymore convertible securities and ine fund
-advent claymore convertible securities and ine fund ii
-advent/claymore enhanced growth & ine fund
+advent claymore convertible securities and income
+advent claymore convertible securities and income ii
+advent/claymore enhanced growth income
 adverum biotechnologies
 advisorshares vice etf
-ae
+aecom
 aegean marine petroleum network
-aegion corp
+aegion
 aeglea biotherapeutics
 aegon nv
 aehr test systems
@@ -130,18 +131,18 @@ aetna
 aevi genomic medicine
 affiliated managers group
 affimed nv
-aflac incorporated
-ag mortgage investment trust
+aflac
+ag mortgage investment
 agco
 agenus
 agile therapeutics
-agilent technologies
+agilent
 agilysys
 agios pharmaceuticals
 agnc investment
 agnico eagle mines
 agree realty
-agrofresh solutions
+agrofresh
 ah belo
 aileron therapeutics
 aimmune therapeutics
@@ -154,19 +155,19 @@ aircastle
 airgain
 airmedia group
 ak steel holding
-akamai technologies
-akari therapeutics plc
+akamai
+akari therapeutics
 akcea therapeutics
 akebia therapeutics
 akers biosciences
 akorn
-akoustis technologies
+akoustis
 alabama power
 alamo group
 alamos gold
 alarm holdings
 alaska air group
-alaska munications systems group
+alaska communications systems group
 albany international
 albemarle
 albireo pharma
@@ -174,49 +175,49 @@ alcentra
 alcoa
 alder biopharmaceuticals
 aldeyra therapeutics
-alexander & baldwin holdings
+alexander baldwin holdings
 alexander&#39;s
 alexandria real estate equities
-alexco resource corp
+alexco resource
 alexion pharmaceuticals
-algonquin power & utilities
+algonquin power utilities
 alibaba group holding
 alico
-align technology
+align
 alimera sciences
 alio gold
 alj regional holdings
-alkermes plc
+alkermes
 alleghany
-allegheny technologies incorporated
+allegheny
 allegiance bancshares
 allegiant travel
-allegion plc
+allegion
 allena pharmaceuticals
-allergan plc
+allergan
 allete
-alliance california municipal ine fund
+alliance california municipal income
 alliance data systems
-alliance holdings gp lp
+alliance holdings gp
 alliance mma
-alliance national municipal ine fund
+alliance national municipal income
 alliance one international
-alliance resource partners lp
-alliance world dollar government fund ii
-alliancebernstein holding lp
+alliance resource partners
+alliance world dollar government ii
+alliancebernstein holding
 alliant energy
-allianzgi convertible & ine 2024 target term fund
-allianzgi convertible & ine fund
-allianzgi convertible & ine fund ii
-allianzgi diversified ine & convertible fund
-allianzgi equity & convertible ine fund
-allianzgi nfj dividend interest & premium strategy fund
+allianzgi convertible income
+allianzgi convertible income 2024 target term
+allianzgi convertible income ii
+allianzgi diversified income convertible
+allianzgi equity convertible income
+allianzgi nfj dividend interest premium strategy
 allied healthcare products
-allied motion technologies
+allied motion
 alliqua biomedical
 allison transmission holdings
-allot munications
-allscripts healthcare solutions
+allot communications
+allscripts healthcare
 allstate
 ally
 almaden minerals
@@ -228,24 +229,24 @@ alpha pro tech
 alphabet
 alphamark actively managed small cap etf
 alphatec holdings
-alpine global dynamic dividend fund
-alpine global premier properties fund
+alpine global dynamic dividend
+alpine global premier properties
 alpine immune sciences
-alpine total dynamic dividend fund
+alpine total dynamic dividend
 alps/dorsey wright sector momentum etf
 altaba
 altair engineering
 alteryx
 altice usa
 altimmune
-altisource asset management corp
-altisource portfolio solutions sa
+altisource asset management
+altisource portfolio sa
 altisource residential
 altra industrial motion
 altria group
 aluminum of china
 amag pharmaceuticals
-amarin plc
+amarin
 amazon
 ambac group
 ambarella
@@ -261,16 +262,16 @@ amerco
 ameren
 ameresco
 ameri holdings
-america first multifamily investors lp
+america first multifamily investors
 america movil sab de cv
 america&#39;s car-mart
 american airlines group
-american assets trust
-american axle & manufacturing holdings
-american campus munities
+american assets
+american axle manufacturing holdings
+american campus communities
 american eagle outfitters
-american electric power pany
-american electric technologies
+american electric
+american electric power
 american equity investment life holding
 american express
 american group
@@ -296,7 +297,7 @@ american vanguard
 american water works
 american woodmark
 americas silver
-amerigas partners lp
+amerigas partners
 ameriprise services
 ameris bancorp
 amerisafe
@@ -306,7 +307,7 @@ ames national
 amgen
 amicus therapeutics
 amira nature foods
-amkor technology
+amkor
 amn healthcare services
 ampco-pittsburgh
 amphastar pharmaceuticals
@@ -346,26 +347,26 @@ antero resources
 anthem
 anthera pharmaceuticals
 anworth mortgage asset 
-aon plc
+aon
 apache
 apartment investment and management
 apellis pharmaceuticals
 apogee enterprises
+apollo commercial real estate finance
 apollo endosurgery
-apollo global management llc
+apollo global management
 apollo investment
 apollo medical holdings
-apollo mercial real estate finance
-apollo senior floating rate fund
-apollo tactical ine fund
+apollo senior floating rate
+apollo tactical income
 appfolio
 appian
 apple
 apple hospitality reit
 appliance recycling centers of america
 applied dna sciences
-applied genetic technologies
-applied industrial technologies
+applied genetic
+applied industrial
 applied materials
 applied optoelectronics
 approach resources
@@ -373,11 +374,11 @@ apptio
 apricus biosciences
 aptargroup
 aptevo therapeutics
-aptiv plc
+aptiv
 aptose biosciences
 aqua america
 aqua metals
-aquabounty technologies
+aquabounty
 aquantia
 aquaventure holdings
 aquinox pharmaceuticals
@@ -385,9 +386,9 @@ aradigm
 aralez pharmaceuticals
 aramark
 aratana therapeutics
-arbor realty trust
+arbor realty
 arbutus biopharma
-arc document solutions
+arc document
 arc group worldwide
 arca biopharma
 arcadia biosciences
@@ -397,7 +398,7 @@ arch coal
 arch group
 archer-daniels-midland
 archrock
-archrock partners lp
+archrock partners
 arcimoto
 arconic
 arcos dorados holdings
@@ -407,16 +408,16 @@ ardelyx
 ardmore shipping
 arena pharmaceuticals
 ares
-ares dynamic credit allocation fund
-ares management lp
-ares mercial real estate
+ares commercial real estate
+ares dynamic credit allocation
+ares management
 argan
 argenx se
 argo group international holdings
 argos therapeutics
 arista networks
 ark restaurants
-arlington asset investment corp
+arlington asset investment
 armada hoffler properties
 armour residential reit
 armstrong flooring
@@ -424,16 +425,16 @@ armstrong world industries
 arotech
 arqule
 array biopharma
-arris international plc
+arris international
 arrow
 arrow dwa country rotation etf
 arrow dwa tactical etf
 arrow electronics
 arrowhead pharmaceuticals
 arsanis
-art&#39;s-way manufacturing co
+art&#39;s-way manufacturing
 artesian resources
-arthur j gallagher &
+arthur j gallagher
 artisan partners asset management
 asa gold and precious metals
 asanko gold
@@ -442,17 +443,17 @@ ascena retail group
 ascendis pharma a/s
 ascent group
 ashford
+ashford hospitality
 ashford hospitality prime
-ashford hospitality trust
 ashland global holdings
-asia pacific fund
-asia pacific wire & cable
-asia tigers fund
+asia pacific
+asia pacific wire cable
+asia tigers
 asml holding nv
+aspen
 aspen aerogels
 aspen group
 aspen insurance holdings
-aspen technology
 assembly biosciences
 associated banc-corp
 associated group
@@ -461,7 +462,7 @@ assured guaranty
 asta funding
 astec industries
 asterias biotherapeutics
-astrazeneca plc
+astrazeneca
 astronics
 astronova
 astrotech
@@ -482,20 +483,20 @@ atlantic american
 atlantic bancshares
 atlantic coast
 atlantic power
-atlantica yield plc
+atlantica yield
 atlanticus holdings
 atlas air worldwide holdings
 atlas holdings
-atlassian plc
+atlassian
 atmos energy
 atn international
-atomera incorporated
+atomera
 atossa genetics
 atricure
 atrion
 attunity
 atyr pharma
-au optronics corp
+au optronics
 auburn national bancorporation
 audentes therapeutics
 audiocodes
@@ -509,9 +510,9 @@ automatic data processing
 autonation
 autoweb
 autozone
-avadel pharmaceuticals plc
+avadel pharmaceuticals
 avalon holdings
-avalonbay munities
+avalonbay communities
 avangrid
 avenue therapeutics
 aveo pharmaceuticals
@@ -519,8 +520,8 @@ avery dennison
 avexis
 avianca holdings sa
 aviat networks
+avid
 avid bioservices
-avid technology
 avinger
 avino silver
 aviragen therapeutics
@@ -532,7 +533,7 @@ avon products
 avx
 aware
 axalta coating systems
-axcelis technologies
+axcelis
 axis holdings
 axogen
 axon enterprise
@@ -544,18 +545,18 @@ azul sa
 azure power global
 azurrx biopharma
 azz
-b munications
-b riley financial
+b communications
+b riley
 b&g foods
-b2gold corp
+b2gold
 babcock
-babson global short duration high yield fund
+babson global short duration high yield
 badger meter
 baidu
 baker hughes a ge
 balchem
-balckrock taxable municipal bond trust
-baldwin & lyons
+balckrock taxable municipal bond
+baldwin lyons
 ball
 ballantyne strong
 ballard power systems
@@ -564,7 +565,7 @@ bancfirst
 banco bilbao viscaya argentaria sa
 banco bradesco sa
 banco de chile
-banco latinoamericano de ercio exterior sa
+banco latinoamericano de comercio exterior sa
 banco santander brasil sa
 banco santander chile
 banco santander sa
@@ -573,18 +574,18 @@ bancorp
 bancorp 34
 bancorp of new jersey
 bancorpsouth bank
-bancroft fund
+bancroft
 bandwidth
 bank mutual
 bank of america
+bank of commerce holdings (ca)
 bank of hawaii
 bank of james group
 bank of marin bancorp
-bank of merce holdings (ca)
 bank of montreal
 bank of new york mellon
 bank of nova scotia
-bank of nt butterfield & son
+bank of nt butterfield son
 bank of ozarks
 bank of princeton
 bank of south carolina
@@ -594,23 +595,23 @@ bankwell group
 banner
 baozun
 bar harbor bankshares
-barclays inverse us treasury posite etn
-barclays plc
+barclays
+barclays inverse us treasury composite etn
 barings corporate investors
 barings participation investors
 barington/hilco acquisition
-barnes & noble
-barnes & noble education
 barnes group
+barnes noble
+barnes noble education
 barnwell industries
 barracuda networks
 barrett business services
 barrick gold
 basic energy services
-bassett furniture industries incorporated
+bassett furniture industries
 baxter international
 bay bancorp
-baytex energy corp
+baytex energy
 bazaarvoice
 bb&t
 bbva banco frances sa
@@ -618,11 +619,11 @@ bbx
 bcb bancorp (nj)
 bce
 beacon roofing supply
-bear state financial
+bear state
 beasley broadcast group
 beazer homes usa
 becton dickinson and
-bed bath & beyond
+bed bath beyond
 beigene
 bel fuse
 belden
@@ -630,7 +631,7 @@ bellatrix exploration
 bellerophon therapeutics
 bellicum pharmaceuticals
 belmond
-bemis pany
+bemis
 benchmark electronics
 beneficial bancorp
 benefitfocus
@@ -639,12 +640,11 @@ berkshire hathaway
 berkshire hills bancorp
 berry global group
 best
-best buy co
+best buy
 beyondspring
 bg staffing
 bgc partners
 bhp billiton
-bhp billiton plc
 big 5 sporting goods
 big lots
 big rock partners acquisition
@@ -653,7 +653,7 @@ bill barrett
 bio-key international
 bio-path holdings
 bio-rad laboratories
-bio-techne corp
+bio-techne
 bioamber
 bioanalytical systems
 bioblast pharma
@@ -663,14 +663,14 @@ biodelivery sciences international
 biogen
 biohaven pharmaceutical holding
 biolase
-biolife solutions
+biolife
 biolinerx
 biomarin pharmaceutical
 biomerica
 biondvax pharmaceuticals
 biopharmx
 bioscrip
-biospecifics technologies corp
+biospecifics
 biostar pharmaceuticals
 biotelemetry
 biotime
@@ -683,89 +683,89 @@ black box
 black hills
 black knight
 black ridge acquisition
-black stone minerals lp
+black stone minerals
 blackbaud
 blackberry
 blackhawk network holdings
 blackline
 blackrock
-blackrock 2022 global ine opportunity trust
-blackrock and ine strategies fund
-blackrock california municipal 2018 term trust
-blackrock california municipal ine trust
-blackrock core bond trust
-blackrock corporate high yield fund
-blackrock credit allocation ine trust
-blackrock debt strategies fund
-blackrock energy and resources trust
-blackrock enhanced equity dividend trust
-blackrock enhanced government fund
-blackrock floating rate ine strategies fund
-blackrock florida municipal 2020 term trust
+blackrock 2022 global income opportunity
+blackrock and income strategies
+blackrock california municipal 2018 term
+blackrock california municipal income
+blackrock core bond
+blackrock corporate high yield
+blackrock credit allocation income
+blackrock debt strategies
+blackrock energy and resources
+blackrock enhanced equity dividend
+blackrock enhanced government
+blackrock floating rate income strategies
+blackrock florida municipal 2020 term
 blackrock global
-blackrock health sciences trust
-blackrock ine investment quality trust
-blackrock ine trust
+blackrock health sciences
+blackrock income
+blackrock income investment quality
 blackrock international
 blackrock investment
-blackrock investment quality municipal trust
-blackrock long-term municipal advantage trust
-blackrock maryland municipal bond trust
-blackrock massachusetts tax-exempt trust
-blackrock multi-sector ine trust
-blackrock muni intermediate duration fund
-blackrock muni new york intermediate duration fund
-blackrock muniassets fund
-blackrock municipal 2018 term trust
-blackrock municipal 2020 term trust
-blackrock municipal bond trust
-blackrock municipal ine investment trust
-blackrock municipal ine quality trust
-blackrock municipal ine trust
-blackrock municipal ine trust ii
-blackrock municipal target term trust
-blackrock munienhanced fund
-blackrock muniholdings california quality fund 
-blackrock muniholdings fund
-blackrock muniholdings fund ii
-blackrock muniholdings investment quality fund
-blackrock muniholdings new jersey insured fund
-blackrock muniholdings new york quality fund
-blackrock muniholdings quality fund
-blackrock muniholdings quality fund ii
-blackrock munivest fund ii
-blackrock muniyield california fund
-blackrock muniyield california insured fund
-blackrock muniyield fund
-blackrock muniyield investment fund
+blackrock investment quality municipal
+blackrock long-term municipal advantage
+blackrock maryland municipal bond
+blackrock massachusetts tax-exempt
+blackrock multi-sector income
+blackrock muni intermediate duration
+blackrock muni new york intermediate duration
+blackrock muniassets
+blackrock municipal 2018 term
+blackrock municipal 2020 term
+blackrock municipal bond
+blackrock municipal income
+blackrock municipal income ii
+blackrock municipal income investment
+blackrock municipal income quality
+blackrock municipal target term
+blackrock munienhanced
+blackrock muniholdings
+blackrock muniholdings california quality 
+blackrock muniholdings ii
+blackrock muniholdings investment quality
+blackrock muniholdings new jersey insured
+blackrock muniholdings new york quality
+blackrock muniholdings quality
+blackrock muniholdings quality ii
+blackrock munivest ii
+blackrock muniyield
+blackrock muniyield california
+blackrock muniyield california insured
+blackrock muniyield investment
 blackrock muniyield investment qualityfund
-blackrock muniyield michigan quality fund
-blackrock muniyield new jersey fund
-blackrock muniyield new york quality fund
-blackrock muniyield pennsylvania quality fund
-blackrock muniyield quality fund
-blackrock muniyield quality fund ii
-blackrock muniyield quality fund iii
-blackrock new jersey municipal bond trust
-blackrock new jersey municipal ine trust
-blackrock new york investment quality municipal trust (th
-blackrock new york municipal 2018 term trust
-blackrock new york municipal bond trust
-blackrock new york municipal ine quality trust
-blackrock new york municipal ine trust ii
+blackrock muniyield michigan quality
+blackrock muniyield new jersey
+blackrock muniyield new york quality
+blackrock muniyield pennsylvania quality
+blackrock muniyield quality
+blackrock muniyield quality ii
+blackrock muniyield quality iii
+blackrock new jersey municipal bond
+blackrock new jersey municipal income
+blackrock new york investment quality municipal (th
+blackrock new york municipal 2018 term
+blackrock new york municipal bond
+blackrock new york municipal income ii
+blackrock new york municipal income quality
 blackrock resources
-blackrock science and technology trust
-blackrock strategic municipal trust
-blackrock utility infrastructure & power opportun
-blackrock virginia municipal bond trust
-blackstone / gso strategic credit fund
-blackstone group lp
-blackstone gso long short credit ine fund
-blackstone gso senior floating rate term fund
-bldrs asia 50 adr index fund
-bldrs developed markets 100 adr index fund
-bldrs emerging markets 50 adr index fund
-bldrs europe 100 adr index fund
+blackrock science and
+blackrock strategic municipal
+blackrock utility infrastructure power opportun
+blackrock virginia municipal bond
+blackstone / gso strategic credit
+blackstone group
+blackstone gso long short credit income
+blackstone gso senior floating rate term
+bldrs asia 50 adr index
+bldrs developed markets 100 adr index
+bldrs emerging markets 50 adr index
+bldrs europe 100 adr index
 blonder tongue laboratories
 bloomin&#39; brands
 blucora
@@ -776,18 +776,18 @@ blue hills bancorp
 blue reinsurance holdings
 bluebird bio
 bluegreen vacations
-blueknight energy partners lp llc
+blueknight energy partners
 bluelinx holdings
 blueprint medicines
 bluerock residential growth reit
 bmc stock holdings
 bmo elkhorn dwa mlp select index etn
-boardwalk pipeline partners lp
+boardwalk pipeline partners
 bob evans farms
 boeing
 bofi holding
 boingo wireless
-boise cascade llc
+boise cascade
 bojangles&#39;
 bok
 bonanza creek energy
@@ -795,26 +795,26 @@ bonso electronics international
 boot barn holdings
 booz allen hamilton holding
 borgwarner
-borqs technologies 
-bos better online solutions
-boston beer pany
+borqs 
+bos better online
+boston beer
 boston omaha
 boston private holdings
 boston properties
 boston scientific
-bottomline technologies
+bottomline
 bovie medical
 bowl america
 box
 boxlight
 boyd gaming
+bp
 bp midstream partners
-bp plc
-bp prudhoe bay royalty trust
+bp prudhoe bay royalty
 brady
 brainstorm cell therapeutics
-brandywine realty trust
-brandywineglobal global ine opportunities fund 
+brandywine realty
+brandywineglobal global income opportunities 
 brasilagro cia brasileira de propriedades agricolas
 braskem sa
 bravo brio restaurant group
@@ -823,35 +823,35 @@ bridge bancorp
 bridgeline digital
 bridgepoint education
 bridgford foods
-briggs & stratton
-bright horizons family solutions
+briggs stratton
+bright horizons family
 bright scholar education holdings
 brightcove
-brighthouse financial
+brighthouse
 brink&#39;s
 brinker international
 bristol-myers squibb
 bristow group
-british american tobacco plc
+british american tobacco
 brixmor property group
-broad
-broadridge solutions
+broadcom
+broadridge
 broadsoft
 broadvision
 broadway
 broadwind energy
 brookdale senior living
 brookfield asset management
-brookfield business partners lp
+brookfield business partners
 brookfield dtla
-brookfield global listed infrastructure ine fund
+brookfield global listed infrastructure income
 brookfield infrastructure partners
-brookfield property partners lp
-brookfield real assets ine fund
-brookfield renewable partners lp
+brookfield property partners
+brookfield real assets income
+brookfield renewable partners
 brookline bancorp
 brooks automation
-brown & brown
+brown brown
 brown forman
 brt apartments
 bruker
@@ -859,26 +859,26 @@ brunswick
 bryn mawr bank
 bsb bancorp
 bsquare
-bt group plc
-buckeye partners lp
+bt group
+buckeye partners
 buckle
 buenaventura mining
 buffalo wild wings
 build-a-bear workshop
 builders firstsource
 bunge
-burcon nutrascience corp
+burcon nutrascience
 burlington stores
-bwx technologies
+bwx
 byline bancorp
 c&f
 c&j energy services
 ca
-cabco series 2004-101 trust
+cabco series 2004-101
 cable one
 cabot
 cabot microelectronics
-cabot oil & gas
+cabot oil gas
 caci international
 cadence bancorporation
 cadence design systems
@@ -890,16 +890,16 @@ cafepress
 cai international
 cal-maine foods
 caladrius biosciences
-calamos convertible and high ine fund
-calamos convertible opportunities and ine fund
-calamos dynamic convertible & ine fund
-calamos global dynamic ine fund
-calamos global total return fund
-calamos strategic total return fund
+calamos convertible and high income
+calamos convertible opportunities and income
+calamos dynamic convertible income
+calamos global dynamic income
+calamos global total return
+calamos strategic total return
 calamp
 calatlantic group
 calavo growers
-caledonia mining plc
+caledonia mining
 caleres
 calgon carbon
 california resources
@@ -910,21 +910,21 @@ callaway golf
 callidus software
 callon petroleum
 calpine
-calumet specialty products partners lp
+calumet specialty products partners
 calyxt
 camber energy
 cambium learning group
 cambrex
 cambridge bancorp
 camden national
-camden property trust
+camden property
 cameco
 campbell soup
 camping world holdings
 camtek
 can-fite biopharma
 canada goose holdings
-canadian imperial bank of merce
+canadian imperial bank of commerce
 canadian national railway
 canadian natural resources
 canadian pacific railway
@@ -936,7 +936,7 @@ cantel medical
 canterbury park holding
 capella education
 capitala finance
-capitol federal financial
+capitol federal
 capitol investment iv
 capricor therapeutics
 capstar holdings
@@ -948,21 +948,21 @@ carbonite
 cardinal health
 cardiome pharma
 cardiovascular systems
-cardtronics plc
+cardtronics
 care
 caredx
 career education
 caretrust reit
 cargurus
-carlisle panies incorporated
-carlyle group lp
+carlisle
+carlyle group
 carmax
 carnival
 carolina
-carolina trust bancshares
-carpenter technology
+carolina bancshares
+carpenter
 carriage services
-carrizo oil & gas
+carrizo oil gas
 carrols restaurant group
 cars
 carter&#39;s
@@ -975,7 +975,6 @@ casella waste systems
 caseys general stores
 casi pharmaceuticals
 cass information systems
-cast
 castle brands
 castlight health
 catabasis pharmaceuticals
@@ -983,19 +982,19 @@ catalent
 catalyst biosciences 
 catalyst pharmaceuticals
 catasys
-catchmark timber trust
+catchmark timber
 caterpillar
 cathay general bancorp
 cato
 cavco industries
 cavium
 cb services
-cbak energy technology
+cbak energy
 cbiz
-cbl & associates properties
+cbl associates properties
 cbo (listing market - nyse - networks a/e)
 cboe global markets
-cbre clarion global real estate ine fund
+cbre clarion global real estate income
 cbre group
 cbs
 cbtx
@@ -1004,15 +1003,15 @@ cca industries
 cdk global
 cdw
 ceco environmental
-cedar fair lp
-cedar realty trust
+cedar fair
+cedar realty
 cel-sci
 celadon group
 celanese
 celcuity
 celestica
 celgene
-cell israel
+cellcom israel
 celldex therapeutics
 cellect biotechnology
 cellectar biosciences
@@ -1027,22 +1026,22 @@ cemtrex
 cenovus energy
 centene
 centennial resource development
-center coast mlp & infrastructure fund
+center coast mlp infrastructure
 centerpoint energy
 centerstate bank
 centrais electricas brasileiras sa- eletrobras
-central and eastern europe fund
+central and eastern europe
 central european media enterprises
 central federal
-central fund of canada
-central garden & pet
+central garden pet
+central of canada
 central securities
-central valley munity bancorp
+central valley community bancorp
 centrus energy
 century aluminum
 century bancorp
 century casinos
-century munities
+century communities
 centurylink
 cenveo
 ceragon networks
@@ -1059,18 +1058,18 @@ champions oncology
 changyou
 channeladvisor
 chanticleer holdings
-charles & colvard
+charles colvard
 charles river laboratories international
 charles schwab
 chart industries
 charter
-charter munications
+charter communications
 chase
-chatham lodging trust (reit)
-check point software technologies
+chatham lodging (reit)
+check point software
 check-cap
 checkpoint therapeutics
-cheesecake factory incorporated
+cheesecake factory
 cheetah mobile
 chefs&#39; warehouse
 chegg
@@ -1079,84 +1078,84 @@ chemed
 chemical
 chemocentryx
 chemours
-chemung corp
+chemung
 cheniere energy
 cheniere energy partners
-cheniere energy partners holdings llc
+cheniere energy partners holdings
 cherokee
 cherry hill mortgage investment
 chesapeake energy
-chesapeake granite wash trust
-chesapeake lodging trust
+chesapeake granite wash
+chesapeake lodging
 chesapeake utilities
 chevron
-chf solutions
+chf
 chiasma
-chicago bridge & iron nv
-chicago rivet & machine
+chicago bridge iron nv
+chicago rivet machine
 chicken soup for soul entertainment
 chico&#39;s fas
 children&#39;s place
 chimera investment
 chimerix
+china
 china advanced construction materials group
 china auto logistics
 china automotive systems
 china biologic products holdings
-china ceramics co
+china ceramics
+china commercial credit
 china cord blood
 china customer relations centers
 china distance education holdings
 china eastern airlines
 china finance online
-china fund
 china green agriculture
 china hgs real estate
-china information technology
+china information
 china internet nationwide services
 china jo-jo drugstores
 china lending
 china life insurance
 china lodging group
-china mercial credit
 china mobile (hong kong)
 china natural resources
 china new borun
 china online education group
-china petroleum & chemical
+china petroleum chemical
 china pharma holdings
 china rapid finance
 china recycling energy
 china southern airlines
-china techfaith wireless munication technology
-china tele corp
-china uni (hong kong)
+china techfaith wireless communication
+china telecom
+china unicom (hong kong)
 china xd plastics
 china xiniya fashion
 china yuchai international
 china zenix auto international
 chinacache international holdings
 chinanet online holdings
-chipmos technologies
+chipmos
 chipotle mexican grill
 choice hotels international
-christopher & banks
+christopher banks
 chromadex
 chs
 chubb
-chunghwa tele co
-church & dwight pany
-churchill downs incorporated
+chunghwa telecom
+church dwight
+churchill downs
 chuy&#39;s holdings
 cidara therapeutics
 ciena
 cigna
-cim mercial trust
+cim commercial
 cimarex energy
 cimpress nv
 cincinnati
 cincinnati bell
-cinedigm corp
+cinedigm
 cinemark holdings
 ciner resources
 cintas
@@ -1169,35 +1168,35 @@ citi trends
 citigroup
 citius pharmaceuticals
 citizens
-citizens & northern corp
+citizens community bancorp
 citizens first
 citizens group
 citizens holding
-citizens munity bancorp
+citizens northern
 citrix systems
 city bank group
 city holding
 city office reit
 civeo
 civista bancshares 
-civitas solutions
+civitas
 ckx lands
 clarus
-clean diesel technologies
+clean diesel
 clean energy fuels
 clean harbors
 clear channel outdoor holdings
 clearbridge all cap growth etf
-clearbridge american energy mlp fund
+clearbridge american energy mlp
 clearbridge dividend strategy esg etf
-clearbridge energy mlp fund
-clearbridge energy mlp opportunity fund
-clearbridge energy mlp total return fund
+clearbridge energy mlp
+clearbridge energy mlp opportunity
+clearbridge energy mlp total return
 clearbridge large cap growth esg etf
 clearfield
 clearone
 clearside biomedical
-clearsign bustion
+clearsign combustion
 clearwater paper
 clementia pharmaceuticals
 cleveland biolabs
@@ -1207,9 +1206,9 @@ clipper realty
 clorox
 cloud peak energy
 cloudera
-clough global dividend and ine fund
-clough global equity fund
-clough global opportunities fund
+clough global dividend and income
+clough global equity
+clough global opportunities
 clovis oncology
 cm finance
 cm seven star acquisition
@@ -1228,29 +1227,29 @@ cobiz
 coca cola femsa sab de cv
 coca-cola
 coca-cola bottling consolidated
-coca-cola european partners plc
+coca-cola european partners
 coda octopus group
 codexis
 codorus valley bancorp
 coeur mining
-coffee holding co
-cogent munications holdings
+coffee holding
+cogent communications holdings
 cogentix medical
 cogint
 cognex
-cognizant technology solutions
+cognizant
 cohbar
-cohen &
-cohen & steers
-cohen & steers closed-end opportunity fund
-cohen & steers duration preferred and ine fund
-cohen & steers global ine builder
-cohen & steers infrastructure fund
-cohen & steers mlp ine and energy opportunity fund
-cohen & steers quality ine realty fund
-cohen & steers reit and preferred ine fund
-cohen & steers select preferred and ine fund
-cohen & steers total return realty fund
+cohen
+cohen steers
+cohen steers closed-end opportunity
+cohen steers duration preferred and income
+cohen steers global income builder
+cohen steers infrastructure
+cohen steers mlp income and energy opportunity
+cohen steers quality income realty
+cohen steers reit and preferred income
+cohen steers select preferred and income
+cohen steers total return realty
 coherent
 coherus biosciences
 cohu
@@ -1259,26 +1258,60 @@ colgate-palmolive
 collectors universe
 collegium pharmaceutical
 colliers international group 
-colonial high ine municipal trust
-colonial intermediate high ine fund
-colonial investment grade municipal trust
-colonial municipal ine trust
+colonial high income municipal
+colonial intermediate high income
+colonial investment grade municipal
+colonial municipal income
 colony bankcorp
 colony northstar
 columbia banking system
-columbia property trust
-columbia seligman premium technology growth fund
+columbia property
+columbia seligman premium growth
 columbia sportswear
 columbus mckinnon
+comcast
+comerica
+comfort systems usa
+command security
+commerce bancshares
+commercehub
+commercial metals
+commercial vehicle group
+commscope holding
+communications systems
+community
+community bancorp
+community bank system
+community bankers
+community first bancshares
+community health systems
+community healthcare
+community west bancshares
+commvault systems
+comp en de mn cemig ads
+companhia brasileira de distribuicao
+companhia de saneamento basico do estado de sao paulo - sabesp
+companhia paranaense de energia (copel)
+compania cervecerias unidas sa
+compass diversified holdings
+compass minerals international
+compugen
+computer programs and systems
+computer task group
+compx international
+comstock holding
+comstock mining
+comstock resources
+comtech telecommunications
 conagra brands
 conatus pharmaceuticals
 concert pharmaceuticals
 concho resources
 concord medical services holdings
 concordia international
-concurrent puter
-condor hospitality trust
-conduent incorporated
+concurrent computer
+condor hospitality
+conduent
 conformis
 conifer holdings
 conmed
@@ -1287,8 +1320,8 @@ connecticut water service
 connectone bancorp
 conocophillips
 consol coal resources
+consolidated communications holdings
 consolidated edison
-consolidated munications holdings
 consolidated water
 consolidated-tomoka land
 constellation alpha
@@ -1296,39 +1329,39 @@ constellation brands
 constellium nv
 consumer portfolio services
 container store
-contango oil & gas
+contango oil gas
 continental building products
 continental materials
 continental resources
 contrafect
 contravir pharmaceuticals
 control4
-controladora vuela pania de aviacion sab de cv
+controladora vuela compania de aviacion sab de cv
 convergys
-cooper panies 
-cooper tire & rubber
+cooper 
+cooper tire rubber
 cooper-standard holdings
 copa holdings sa
 copart
 corbus pharmaceuticals holdings
-corcept therapeutics incorporated
+corcept therapeutics
 core laboratories nv
-core molding technologies
-core-mark holding pany
+core molding
+core-mark holding
 corecivic
 corelogic
-corenergy infrastructure trust
+corenergy infrastructure
 coresite realty
 corindus vascular robotics
 corium international
 cormedix
 cornerstone ondemand
-cornerstone strategic return fund
-cornerstone strategic value fund
-corning incorporated
-corporate asset backed corp cabco
-corporate office properties trust
-corporate trust
+cornerstone strategic return
+cornerstone strategic value
+corning
+corporate
+corporate asset backed cabco
+corporate office properties
 corvel
 corvus pharmaceuticals
 cosan
@@ -1341,8 +1374,8 @@ coty
 counterpath
 countrywide
 county bancorp
-coupa software incorporated
-cousins properties incorporated
+coupa software
+cousins properties
 covanta holding
 covenant transportation group
 cowen
@@ -1350,29 +1383,29 @@ cpb
 cpfl energia sa
 cpi aerostructures
 cpi card group
-cps technologies
+cps
 cra internationalinc
 cracker barrel old country store
 craft brew alliance
 crane
-crawford &
+crawford
 cray
 credicorp
 credit acceptance
-credit suisse asset management ine fund
+credit suisse asset management income
 credit suisse group
-credit suisse high yield bond fund
+credit suisse high yield bond
 cree
 crescent point energy
 crestwood equity partners
 cresud sacif y a
+crh
 crh medical
-crh plc
 crispr therapeutics ag
 criteo sa
 crocs
 cross country healthcare
-cross timbers royalty trust
+cross timbers royalty
 crossamerica partners
 crown castle international
 crown crafts
@@ -1381,7 +1414,7 @@ cryolife
 cryoport
 crystal rock holdings
 csg systems international
-csi pressco
+csi compressco
 csp
 csra
 css industries
@@ -1402,9 +1435,9 @@ cummins
 curis
 curo group holdings
 curtiss-wright
-cushing energy ine fund
-cushing mlp total return fund
-cushing renaissance fund
+cushing energy income
+cushing mlp total return
+cushing renaissance
 customers bancorp
 cutera
 cvb
@@ -1419,19 +1452,19 @@ cyberoptics
 cyclacel pharmaceuticals
 cymabay therapeutics
 cynergistek
-cypress energy partners lp
+cypress energy partners
 cypress semiconductor
 cyren
 cyrusone
 cys investments
-cytokinetics incorporated
+cytokinetics
 cytomx therapeutics
 cytori therapeutics
 cytosorbents
 cytrx
 daily journal (sc)
 daktronics
-dana incorporated
+dana
 danaher
 danaos
 daqo new energy
@@ -1439,11 +1472,11 @@ darden restaurants
 dare bioscience
 dariohealth
 darling ingredients
-dasan zhone solutions
+dasan zhone
 daseke
 data i/o
 datawatch
-dave & buster&#39;s entertainment
+dave buster&#39;s entertainment
 davidstea
 davis select etf
 davis select us equity etf
@@ -1451,34 +1484,34 @@ davis select worldwide etf
 davita
 dawson geophysical
 daxor
-dbv technologies sa
+dbv sa
 dcp midstream
-dct industrial trust
+dct industrial
 ddr
 dean foods
 deciphera pharmaceuticals
 deckers outdoor
-deere &
+deere
 del frisco&#39;s restaurant group
 del taco restaurants
 delaware enhanced global dividend
-delaware investments colorado municipal ine fund
-delaware investments dividend & ine fund
-delaware investments florida insured municipal ine fund
-delaware investments minnesota municipal ine fund ii
-delek logistics partners lp
+delaware investments colorado municipal income
+delaware investments dividend income
+delaware investments florida insured municipal income
+delaware investments minnesota municipal income ii
+delek logistics partners
 delek us holdings
-dell technologies
+dell
 delmar pharmaceuticals
-delphi technologies plc
+delphi
 delta air lines
 delta apparel
-delta technology holdings
+delta holdings
 deltic timber
 deluxe
 denali therapeutics
 denbury resources
-denison mine corp
+denison mine
 denny&#39;s
 dentsply sirona
 depomed
@@ -1492,12 +1525,12 @@ determine
 deutsch bk contingent cap tr v
 deutsche bank ag
 devon energy
-dex
-dgse panies
+dexcom
+dgse
 dhi group
 dht holdings
 dhx media
-diageo plc
+diageo
 diamond hill investment group
 diamond offshore drilling
 diamondback energy
@@ -1506,30 +1539,30 @@ diana containerships
 diana shipping
 dicerna pharmaceuticals
 dick&#39;s sporting goods
-diebold nixdorf incorporated
+diebold nixdorf
 differential brands group
 diffusion pharmaceuticals
 digi international
 digimarc
 digirad
 digital ally
-digital realty trust
+digital realty
 digital turbine
 dillard&#39;s
-dime munity bancshares
+dime community bancshares
 dineequity
-diodes incorporated
+diodes
 diplomat pharmacy
 discover services
-discovery munications
+discovery communications
 dish network
 diversicare healthcare services
 diversified restaurant holdings
-dividend and ine fund
+dividend and income
 dixie group
 dlh holdings
 dmc global
-dnb corp
+dnb
 document security systems
 dogness (international)
 dolby laboratories
@@ -1540,19 +1573,19 @@ dominion energy
 dominion energy midstream partners
 domino&#39;s pizza
 domtar
-donaldson pany
+donaldson
 donegal group
-donnelley solutions
-dorchester minerals lp
+donnelley
+dorchester minerals
 dorian lpg
 dorman products
-doubleline ine solutions fund
-doubleline opportunistic credit fund
+doubleline income
+doubleline opportunistic credit
 douglas dynamics
 douglas emmett
 dova pharmaceuticals
 dover
-dover downs gaming & entertainment
+dover downs gaming entertainment
 dover motorsports
 dowdupont
 dpw holdings
@@ -1560,13 +1593,13 @@ dr horton
 dr pepper snapple group
 dr reddy&#39;s laboratories
 dragon victory international
-draper oakwood technology acquisition
+draper oakwood acquisition
 drdgold
 dreyfus alcentra
-dreyfus high yield strategies fund
-dreyfus municipal bond infrastructure fund
-dreyfus municipal ine
-dreyfus strategic municipal bond fund
+dreyfus high yield strategies
+dreyfus municipal bond infrastructure
+dreyfus municipal income
+dreyfus strategic municipal bond
 dreyfus strategic municipals
 dril-quip
 drive shack
@@ -1575,34 +1608,34 @@ dsp group
 dst systems
 dsw
 dte energy
-duff & phelps global utility ine fund
-duff & phelps select energy mlp fund
-duff & phelps utilities ine
-duff & phelps utilities tax-free ine
-duff & phelps utility & corporate bond trust
+ducommun
+duff phelps global utility income
+duff phelps select energy mlp
+duff phelps utilities income
+duff phelps utilities tax-free income
+duff phelps utility corporate bond
 duke energy
 duke realty
 duluth holdings
-dumun incorporated
-dun & bradstreet
+dun bradstreet
 dunkin&#39; brands group
 durect
-dws high ine opportunities fund
-dxc technology
+dws high income opportunities
+dxc
 dxp enterprises
-dy industries
+dycom industries
 dynagas lng partners
 dynasil of america
 dynatronics
-dynavax technologies
+dynavax
 dynegy
-dynex capital
+dynex
 e*trade
 eagle bancorp
 eagle bancorp montana
 eagle bulk shipping
-eagle growth and ine opportunities fund
-eagle growth fund
+eagle growth
+eagle growth and income opportunities
 eagle materials
 eagle pharmaceuticals
 eagle point credit
@@ -1615,67 +1648,67 @@ eastgroup properties
 eastman chemical
 eastman kodak
 eastside distilling
-eaton corporation plc
+eaton
 eaton vance
-eaton vance california municipal bond fund
-eaton vance california municipal bond fund ii
-eaton vance california municipal ine trust
-eaton vance duration ine fund
-eaton vance enhance equity ine fund
-eaton vance enhanced equity ine fund ii
-eaton vance floating rate ine trust
-eaton vance floating-rate 2022 target term trust
-eaton vance floating-rate ine plus fund
-eaton vance global ine builder nextshares
-eaton vance high ine 2021 target term trust
-eaton vance massachusetts municipal bond fund
-eaton vance massachusetts municipal ine trust
-eaton vance michigan municipal bond fund
-eaton vance michigan municipal ine trust
-eaton vance municipal bond fund
-eaton vance municipal bond fund ii
-eaton vance municipal ine 2028 term trust
-eaton vance municipal ine trust
-eaton vance new jersey municipal bond fund
-eaton vance new jersey municipal ine trust
-eaton vance new york municipal bond fund
-eaton vance new york municipal bond fund ii
-eaton vance new york municipal ine trust
-eaton vance nextshares trust ii
-eaton vance ohio municipal bond fund
-eaton vance ohio municipal ine trust
-eaton vance pennsylvania municipal bond fund
-eaton vance pennsylvania municipal ine trust
-eaton vance risk-managed diversified equity ine fund
-eaton vance senior floating-rate fund
-eaton vance senior ine trust
-eaton vance short diversified ine fund
+eaton vance california municipal bond
+eaton vance california municipal bond ii
+eaton vance california municipal income
+eaton vance duration income
+eaton vance enhance equity income
+eaton vance enhanced equity income ii
+eaton vance floating rate income
+eaton vance floating-rate 2022 target term
+eaton vance floating-rate income plus
+eaton vance global income builder nextshares
+eaton vance high income 2021 target term
+eaton vance massachusetts municipal bond
+eaton vance massachusetts municipal income
+eaton vance michigan municipal bond
+eaton vance michigan municipal income
+eaton vance municipal bond
+eaton vance municipal bond ii
+eaton vance municipal income
+eaton vance municipal income 2028 term
+eaton vance new jersey municipal bond
+eaton vance new jersey municipal income
+eaton vance new york municipal bond
+eaton vance new york municipal bond ii
+eaton vance new york municipal income
+eaton vance nextshares ii
+eaton vance ohio municipal bond
+eaton vance ohio municipal income
+eaton vance pennsylvania municipal bond
+eaton vance pennsylvania municipal income
+eaton vance risk-managed diversified equity income
+eaton vance senior floating-rate
+eaton vance senior income
+eaton vance short diversified income
 eaton vance stock nextshares
 eaton vance tabs 5-to-15 year laddered municipal bond nextshar
-eaton vance tax advantaged dividend ine fund
+eaton vance tax advantaged dividend income
 eaton vance tax-advantage global dividend opp
 eaton vance tax-advantaged bond
-eaton vance tax-advantaged global dividend ine fund
-eaton vance tax-managed buy-write ine fund
-eaton vance tax-managed diversified equity ine fund
-eaton vance tax-managed global diversified equity ine fund
+eaton vance tax-advantaged global dividend income
+eaton vance tax-managed buy-write income
+eaton vance tax-managed diversified equity income
+eaton vance tax-managed global diversified equity income
 ebay
 ebix
-eca marcellus trust i
+eca marcellus i
 echelon
 echo global logistics
 echostar
 eclipse resources
-eco-stim energy solutions
+eco-stim energy
 ecolab
 ecology and environment
 ecopetrol sa
 edap tms sa
 edge therapeutics
-edgewater technology
+edgewater
 edison international
 editas medicine
-education realty trust
+education realty
 educational development
 edwards lifesciences
 egain
@@ -1702,19 +1735,19 @@ elevate credit
 eleven biotherapeutics
 elf beauty
 eli lilly and
-elkhorn modity rotation strategy etf
+elkhorn commodity rotation strategy etf
 ellie mae
-ellington llc
+ellington
 ellington residential mortgage reit
 ellomay
-ellsworth growth and ine fund
+ellsworth growth and income
 elmira savings bank ny
 eltek
 emagin
 embotelladora andina sa
 embraer-empresa brasileira de aeronautica
 emc insurance group
-emclaire corp
+emclaire
 emcor group
 emcore
 emerald expositions events
@@ -1722,27 +1755,28 @@ emerge energy services
 emergent biosolutions
 emerson electric
 emerson radio
-emmis munications
+emmis communications
 empire resorts
-empire state realty trust
+empire state realty
 employers holdings
-empresa distribuidora y ercializadora norte sa (edenor)
+empresa distribuidora y comercializadora norte sa (edenor)
 emx royalty
 enable midstream partners
 enanta pharmaceuticals
 enbridge
-enbridge energy lp
-enbridge energy management llc
+enbridge energy
+enbridge energy management
 encana
+encompass health
 encore group
 encore wire
 endeavour silver
-endo international plc
+endo international
 endocyte
 endologix
 endra life sciences
 endurance international group holdings
-enduro royalty trust
+enduro royalty
 enel americas sa
 enel chile sa
 enel generacion chile sa
@@ -1752,8 +1786,8 @@ energous
 energy focus
 energy fuels
 energy recovery
-energy transfer equity lp
-energy transfer partners lp
+energy transfer equity
+energy transfer partners
 energy xxi gulf coast
 enerjex resources
 enerplus
@@ -1762,14 +1796,13 @@ engility holdings
 engines
 englobal
 eni spa
-enlink midstream llc
+enlink midstream
 enlink midstream partners
 ennis
 enova international
-enpass health
 enphase energy
 enpro industries
-ensco plc
+ensco
 enservco
 ensign group
 enstar group
@@ -1777,17 +1810,17 @@ ensync
 entegra
 entegris
 entellus medical
-enter munications
+entercom communications
 entergy
 entergy arkansas
 entergy louisiana
 entergy mississippi
-entergy new orleans llc
+entergy new orleans
 entergy texas
 enterprise bancorp
-enterprise products partners lp
+enterprise products partners
 enterprise services
-entravision munications
+entravision communications
 entree resources
 envestnet
 envirostarm
@@ -1808,39 +1841,38 @@ equifax
 equinix
 equitable
 equity bancshares
+equity commonwealth
 equity lifestyle properties
-equity monwealth
 equity residential
 equus total return
 era group
-erica incorporated
 ericsson
 erie indemnity
 erin energy
-eros international plc
+eros international
 erytech pharma sa
-escalade incorporated
-esco technologies
+escalade
+esco
 esperion therapeutics
-espey mfg & electronics
+espey mfg electronics
 esquire holdings
 essa bancorp
 essa pharma
 essendant
 essent group
-essex property trust
-estee lauder panies
-esterline technologies
+essex property
+estee lauder
+esterline
 estre ambiental
-etf managers trust bluestar ta-bigitech israel technology etf
+etf managers bluestar ta-bigitech israel etf
 ethan allen interiors
 etsy
 euro tech holdings
 euronav nv
 euronet worldwide
-european equity fund
+european equity
 euroseas
-ev energy partners lp
+ev energy partners
 evans bancorp
 ever-glory international group
 everbridge
@@ -1848,19 +1880,19 @@ evercore
 everest re group
 everi holdings
 eversource energy
-everspin technologies
+everspin
 evertec
 evine live
 evogene
 evoke pharma
 evolent health
-evolution petroleum corporation
+evolution petroleum
 evolving systems
-evoqua water technologies
+evoqua water
 ew scripps
 exact sciences
 exactech
-exela technologies
+exela
 exelixis
 exelon
 exfo
@@ -1874,7 +1906,7 @@ express scripts holding
 extended stay america
 exterran
 extra space storage
-extraction oil & gas
+extraction oil gas
 extreme networks
 exxon mobil
 eyegate pharmaceuticals
@@ -1889,44 +1921,44 @@ famous dave&#39;s of america
 fang holdings
 fanhua
 farmer brothers
-farmers & merchants bancorp
 farmers bank
+farmers merchants bancorp
 farmers national banc
 farmland partners
-faro technologies
+faro
 fastenal
 fat brands
 fate therapeutics
 fauquier bankshares
 fb
 fbl group
-fc global realty incorporated
+fc global realty
 fcb holdings
 federal agricultural mortgage
-federal realty investment trust
+federal realty investment
 federal signal
 federal street acquisition
 federated investors
 federated national holding
-federated premier municipal ine fund
+federated premier municipal income
 fedex
 fennec pharmaceuticals
 ferrari nv
-ferrellgas partners lp
+ferrellgas partners
 ferro
-ferroglobe plc
+ferroglobe
 ffbw
 fgl holdings
 fiat chrysler automobiles nv
 fibria celulose sa
 fibrocell science
 fibrogen
-fidelity d & d bancorp
-fidelity nasdaq posite index tracking stock
-fidelity national financial
+fidelity d d bancorp
+fidelity nasdaq composite index tracking stock
+fidelity national
 fidelity national information services
 fidelity southern
-fiduciary/claymore mlp opportunity fund
+fiduciary/claymore mlp opportunity
 fidus investment
 fiesta restaurant group
 fifth third bancorp
@@ -1935,183 +1967,182 @@ finish line
 finjan holdings
 fintech acquisition ii
 fireeye
+first
 first acceptance
+first alternative absolute return strategy etf
 first american
+first asia pacific ex-japan alphadex
 first bancorp
 first bancorp (me)
 first bancshares
 first bank
 first bankshares
+first bick index
+first brazil alphadex
 first busey
 first business services
-first capital
+first buywrite income etf
+first california municipal high income etf
+first canada alphadex
 first cash
+first cef income opportunity etf
+first china alphadex
 first citizens bancshares
+first cloud computing etf
+first commonwealth
+first community
+first community bancshares
 first connecticut bancorp
 first data
 first defiance
+first developed international equity select etf
+first developed markets ex-us alphadex
+first developed markets ex-us small cap alphadex
+first dorsey wright dynamic focus 5 etf
+first dorsey wright focus 5 etf
+first dorsey wright international focus 5 etf
+first dorsey wright people&#39;s portfolio etf
+first dynamic europe equity income
+first emerging markets alphadex
+first emerging markets equity select etf
+first emerging markets local currency bond etf
+first emerging markets small cap alphadex
+first energy income and growth
+first energy infrastructure
+first enhanced short maturity etf
+first europe alphadex
+first eurozone alphadex etf
 first foundation
+first germany alphadex
+first global tactical commodity strategy
 first guaranty bancshares
 first hawaiian
+first hedged buywrite income etf
+first high income long short
+first high yield long/short etf
+first hong kong alphadex
 first horizon national
 first indiana
-first industrial realty trust
+first industrial realty
+first indxx global agriculture etf
+first indxx global natural resources income etf
+first intermediate duration preferred income
+first international ipo etf
+first international multi-asset diversified income index
 first internet bancorp
 first interstate bancsystem
+first japan alphadex
+first large cap core alphadex
+first large cap growth alphadex
+first large cap us equity select etf
+first large cap value alphadex
+first latin america alphadex
+first low duration opportunities etf
 first majestic silver
+first managed municipal etf
+first mega cap alphadex
 first merchants
+first mid cap core alphadex
+first mid cap growth alphadex
+first mid cap us equity select etf
+first mid cap value alphadex
 first mid-illinois bancshares
 first midwest bancorp
-first monwealth
-first munity
-first munity bancshares
+first mlp and energy income
+first multi cap growth alphadex
+first multi cap value alphadex
+first multi-asset diversified income index
+first municipal cef income opportunity etf
+first municipal high income etf
+first nasdaq aba community bank index
+first nasdaq bank etf
+first nasdaq clean edge green energy index
+first nasdaq clean edge smart grid infrastructure index 
+first nasdaq cybersecurity etf
+first nasdaq dividend index
+first nasdaq food beverage etf
+first nasdaq global auto index
+first nasdaq oil gas etf
+first nasdaq pharmaceuticals etf
+first nasdaq retail etf
+first nasdaq semiconductor etf
+first nasdaq smartphone index
+first nasdaq transportation etf
+first nasdaq-100 equal weighted index
+first nasdaq-100 ex-technology sector index
+first nasdaq-100- index
+first new opportunities mlp energy
 first northwest
 first northwest bancorp
 first of long island
+first rba american industrial renaissance etf
+first rba quality income etf
 first republic bank
+first rising dividend achievers etf
+first riverfront dynamic asia pacific etf
+first riverfront dynamic developed international etf
+first riverfront dynamic emerging markets etf
+first riverfront dynamic europe etf
 first savings group
+first senior floating rate 2022 target term
+first senior floating rate income ii
+first senior loan etf
+first small cap core alphadex
+first small cap growth alphadex
+first small cap us equity select etf
+first small cap value alphadex
+first smid cap rising dividend achievers etf
 first solar
-first trust
-first trust alternative absolute return strategy etf
-first trust asia pacific ex-japan alphadex fund
-first trust bick index fund
-first trust brazil alphadex fund
-first trust buywrite ine etf
-first trust california municipal high ine etf
-first trust canada alphadex fund
-first trust cef ine opportunity etf
-first trust china alphadex fund
-first trust cloud puting etf
-first trust developed international equity select etf
-first trust developed markets ex-us alphadex fund
-first trust developed markets ex-us small cap alphadex fund
-first trust dorsey wright dynamic focus 5 etf
-first trust dorsey wright focus 5 etf
-first trust dorsey wright international focus 5 etf
-first trust dorsey wright people&#39;s portfolio etf
-first trust dynamic europe equity ine fund
-first trust emerging markets alphadex fund
-first trust emerging markets equity select etf
-first trust emerging markets local currency bond etf
-first trust emerging markets small cap alphadex fund
-first trust energy ine and growth fund
-first trust energy infrastructure fund
-first trust enhanced short maturity etf
-first trust europe alphadex fund
-first trust eurozone alphadex etf
-first trust germany alphadex fund
-first trust global tactical modity strategy fund
-first trust hedged buywrite ine etf
-first trust high ine long short fund
-first trust high yield long/short etf
-first trust hong kong alphadex fund
-first trust indxx global agriculture etf
-first trust indxx global natural resources ine etf
-first trust intermediate duration preferred & ine fund
-first trust international ipo etf
-first trust international multi-asset diversified ine index
-first trust japan alphadex fund
-first trust large cap core alphadex fund
-first trust large cap growth alphadex fund
-first trust large cap us equity select etf
-first trust large cap value alphadex fund
-first trust latin america alphadex fund
-first trust low duration opportunities etf
-first trust managed municipal etf
-first trust mega cap alphadex fund
-first trust mid cap core alphadex fund
-first trust mid cap growth alphadex fund
-first trust mid cap us equity select etf
-first trust mid cap value alphadex fund
-first trust mlp and energy ine fund
-first trust multi cap growth alphadex fund
-first trust multi cap value alphadex fund
-first trust multi-asset diversified ine index fund
-first trust municipal cef ine opportunity etf
-first trust municipal high ine etf
-first trust nasdaq aba munity bank index fund
-first trust nasdaq bank etf
-first trust nasdaq clean edge green energy index fund
-first trust nasdaq clean edge smart grid infrastructure index 
-first trust nasdaq cybersecurity etf
-first trust nasdaq food & beverage etf
-first trust nasdaq global auto index fund
-first trust nasdaq oil & gas etf
-first trust nasdaq pharmaceuticals etf
-first trust nasdaq retail etf
-first trust nasdaq semiconductor etf
-first trust nasdaq smartphone index fund
-first trust nasdaq technology dividend index fund
-first trust nasdaq transportation etf
-first trust nasdaq-100 equal weighted index fund
-first trust nasdaq-100 ex-technology sector index fund
-first trust nasdaq-100- technology index fund
-first trust new opportunities mlp & energy fund
-first trust rba american industrial renaissance etf
-first trust rba quality ine etf
-first trust rising dividend achievers etf
-first trust riverfront dynamic asia pacific etf
-first trust riverfront dynamic developed international etf
-first trust riverfront dynamic emerging markets etf
-first trust riverfront dynamic europe etf
-first trust senior floating rate 2022 target term fund
-first trust senior floating rate ine fund ii
-first trust senior loan fund etf
-first trust small cap core alphadex fund
-first trust small cap growth alphadex fund
-first trust small cap us equity select etf
-first trust small cap value alphadex fund
-first trust smid cap rising dividend achievers etf
-first trust south korea alphadex fund
-first trust specialty finance and opportunities fund
-first trust ssi strategic convertible securities etf
-first trust strategic high ine fund ii
-first trust strategic ine etf
-first trust strength etf
-first trust switzerland alphadex fund
-first trust taiwan alphadex fund
-first trust tcw opportunistic fixed ine etf
-first trust total us market alphadex etf
-first trust united kingdom alphadex fund
-first trust us equity dividend select etf
-first trust/aberdeen emerging opportunity fund
-first trust/aberdeen global opportunity ine fund
+first south korea alphadex
+first specialty finance and opportunities
+first ssi strategic convertible securities etf
+first strategic high income ii
+first strategic income etf
+first strength etf
+first switzerland alphadex
+first taiwan alphadex
+first tcw opportunistic fixed income etf
+first total us market alphadex etf
+first trust/aberdeen emerging opportunity
+first trust/aberdeen global opportunity income
 first united
+first united kingdom alphadex
 first us bancshares
+first us equity dividend select etf
 firstenergy
-firsthand technology value fund
+firsthand value
 firstservice
 fiserv
 fitbit
 five below
 five oaks investment
-five point holdings llc
+five point holdings
 five prime therapeutics
 five star senior living
 five9
 flagstar bancorp
-flaherty & crumrine dynamic preferred and ine fund
-flaherty & crumrine preferred ine fund incorporated
-flaherty & crumrine preferred ine opportunity fund
-flaherty & crumrine preferred securities ine fund
-flaherty & crumrine total return fund
+flaherty crumrine dynamic preferred and income
+flaherty crumrine preferred income
+flaherty crumrine preferred income opportunity
+flaherty crumrine preferred securities income
+flaherty crumrine total return
 flanigan&#39;s enterprises
-fleetcor technologies
+fleetcor
 flex
 flex pharma
-flexible solutions international
+flexible international
 flexion therapeutics
-flexshares credit-scored us corporate bond index fund
-flexshares credit-scored us long corporate bond index fund
-flexshares disciplined duration mbs index fund
-flexshares real assets allocation index fund
-flexshares stoxx global esg impact index fund
-flexshares stoxx us esg impact index fund
-flexshares us quality large cap index fund
+flexshares credit-scored us corporate bond index
+flexshares credit-scored us long corporate bond index
+flexshares disciplined duration mbs index
+flexshares real assets allocation index
+flexshares stoxx global esg impact index
+flexshares stoxx us esg impact index
+flexshares us quality large cap index
 flexshopper
 flexsteel industries
 flir systems
-floor & decor holdings
+floor decor holdings
 flotek industries
 flowers foods
 flowserve
@@ -2128,24 +2159,23 @@ fomento economico mexicano sab de cv
 fonar
 foot locker
 ford motor
-forescout technologies
+forescout
 foresight autonomous holdings
 foresight energy
-forest city realty trust
+forest city realty
 forestar group
 formfactor
 formula systems (1985)
 forrester research
-fort systems usa
 forterra
 fortinet
 fortis
 fortive
 fortress biotech
-fortress transportation and infrastructure investors llc
+fortress transportation and infrastructure investors
 fortuna silver mines
-fortune brands home & security
-forum energy technologies
+fortune brands home security
+forum energy
 forum merger
 forward air
 forward industries
@@ -2153,19 +2183,19 @@ forward pharma a/s
 fossil group
 foundation building materials
 foundation medicine
-four corners property trust
+four corners property
 four seasons education (cayman)
 fox factory holding
 francesca&#39;s holdings
 franco-nevada
 frank&#39;s international nv
 franklin covey
-franklin duration ine trust
-franklin electric co
+franklin duration income
+franklin electric
 franklin network
 franklin resources
 franklin street properties
-franklin universal trust
+franklin universal
 fred&#39;s
 freeport-mcmoran
 freightcar america
@@ -2175,13 +2205,13 @@ fresh del monte produce
 freshpet
 friedman industries
 fronteo
-frontier munications
+frontier communications
 frontline
 frp holdings
 fs bancorp
 fs investment
 fsb bancorp
-ftd panies
+ftd
 fte networks
 fti consulting
 fuel tech
@@ -2191,32 +2221,32 @@ fuling global
 full house resorts
 fulton
 funko
-fusion telemunications international
+fusion telecommunications international
 future fintech group
 futurefuel
-fuwei films (holdings) co
+fuwei films (holdings)
 g willi-food international 
 g-iii apparel group
 g1 therapeutics
-gabelli convertible and ine securities fund
+gabelli convertible and income securities
 gabelli dividend
-gabelli equity trust
-gabelli global small and mid cap value trust
-gabelli global utility and ine trust
-gabelli go anywhere trust
-gabelli healthcare & wellness trust
-gabelli multi-media trust
-gabelli nextshares trust
-gabelli utility trust
+gabelli equity
+gabelli global small and mid cap value
+gabelli global utility and income
+gabelli go anywhere
+gabelli healthcare wellness
+gabelli multi-media
+gabelli nextshares
+gabelli utility
 gafisa sa
 gaia
 gain holdings
 galapagos nv
 galectin therapeutics
 galmed pharmaceuticals
-gamco global gold natural reources & ine trust 
+gamco global gold natural reources income 
 gamco investors
-gamco natural resources gold & ine tust 
+gamco natural resources gold income tust 
 gamestop
 gaming and leisure properties
 gaming partners international
@@ -2225,34 +2255,34 @@ gardner denver holdings
 garmin
 garrison
 gartner
-gaslog lp
+gaslog
 gaslog partners
 gastar exploration
 gatx
 gazit-globe
-gcp applied technologies
-gdl fund
+gcp applied
+gdl
 gds holdings
 gee group
 gemphire therapeutics
-genco shipping & trading 
+genco shipping trading 
 gencor industries
 gener8 maritime
 generac holdlings
 general american investors
 general cable
+general communication
 general dynamics
 general electric
 general finance
 general mills
 general moly
 general motors
-general munication
 genesco
-genesee & wyoming
-genesis energy lp
+genesee wyoming
+genesis energy
 genesis healthcare
-genetic technologies
+genetic
 genie energy
 genius brands international
 genmark diagnostics
@@ -2266,7 +2296,7 @@ genworth
 geo group
 geopark
 georgia power
-geospace technologies
+geospace
 gerdau sa
 german american bancorp
 geron
@@ -2281,12 +2311,12 @@ gildan activewear
 gilead sciences
 glacier bancorp
 gladstone
+gladstone commercial
 gladstone investment
 gladstone land
-gladstone mercial
 glatfelter
 glaukos
-glaxosmithkline plc
+glaxosmithkline
 glen burnie bancorp
 global blood therapeutics
 global brass and copper holdings
@@ -2300,15 +2330,15 @@ global payments
 global self storage
 global ship lease
 global water resources
-global x conscious panies etf
+global x conscious etf
 global x fintech etf
-global x health & wellness thematic etf
+global x health wellness thematic etf
 global x internet of things etf
 global x longevity thematic etf
 global x millennials thematic etf
 global x msci superdividend eafe etf
-global x nasdaq china technology etf
-global x robotics & artificial intelligence etf
+global x nasdaq china etf
+global x robotics artificial intelligence etf
 global x s&p 500 catholic values etf
 global x social media etf
 global x superdividend alternatives etf
@@ -2321,7 +2351,7 @@ globus maritime
 globus medical
 glowpoint
 glu mobile
-glyimetics
+glycomimetics
 gms
 gnc holdings
 godaddy
@@ -2340,34 +2370,34 @@ golden star resources
 goldfield
 goldman sachs bdc
 goldman sachs group
-goldman sachs mlp energy renaissance fund
-goldman sachs mlp ine opportunities fund
+goldman sachs mlp energy renaissance
+goldman sachs mlp income opportunities
 golub bdc
 good times restaurants
 goodrich petroleum
-goodyear tire & rubber
+goodyear tire rubber
 gopro
 gores holdings ii
 gorman-rupp
-government properties ine trust
+government properties income
 gp strategies
 graco
 graham
 graham holdings
-gramercy property trust
+gramercy property
 gran tierra energy
 grana y montero saa
 grand canyon education
-granite construction incorporated
-granite point mortgage trust
+granite construction
+granite point mortgage
 granite real estate
 graphic packaging holding
-gravity co
+gravity
 gray television
 great ajax
 great elm
 great elm group 
-great lakes dredge & dock
+great lakes dredge dock
 great panther silver
 great plains energy
 great southern bancorp
@@ -2377,9 +2407,9 @@ green brick partners
 green dot
 green plains
 green plains partners
-greenbrier panies
+greenbrier
 greene county bancorp
-greenhill & co
+greenhill
 greenlight reinsurance
 greif bros
 gridsum holding
@@ -2399,28 +2429,28 @@ grupo simec sa de cv
 grupo supervielle sa
 grupo televisa sa
 gse systems
-gsi technology
-gsv corp
-gtt munications
+gsi
+gsv
+gtt communications
 gtx
-gty technology holdings
+gty holdings
 guangshen railway
 guaranty bancorp
 guaranty bancshares
 guaranty federal bancshares
 guess?
-guggenheim credit allocation fund
-guggenheim enhanced equity ine fund
-guggenheim strategic opportunities fund
+guggenheim credit allocation
+guggenheim enhanced equity income
+guggenheim strategic opportunities
 guggenheim taxable municipal managed duration trst
 guidewire software
 gulf island fabrication
 gulf resources
 gulfmark offshore
 gulfport energy
-gw pharmaceuticals plc
+gw pharmaceuticals
 gwg holdings
-gyrodyne  llc
+gyrodyne 
 h b fuller
 h&e equipment services
 h&r block
@@ -2437,14 +2467,14 @@ halozyme therapeutics
 halyard health
 hamilton bancorp
 hamilton beach brands holding
-hamilton lane incorporated
+hamilton lane
 hancock holding
 hancock jaffe laboratories
 hanesbrands
 hanmi
-hannon armstrong sustainable infrastructure capital
+hannon armstrong sustainable infrastructure
 hanover insurance group
-hanwha q cells co 
+hanwha q cells 
 harborone bancorp
 hardinge
 harley-davidson
@@ -2453,15 +2483,15 @@ harmony gold mining
 harris
 harsco
 harte-hanks
-hartford funds nextshares trust
+hartford funds nextshares
 hartford services group
 harvard bioscience
 harvest credit
 hasbro
-haverty furniture panies
+haverty furniture
 hawaiian electric industries
 hawaiian holdings
-hawaiian tel holdco
+hawaiian telcom holdco
 hawkins
 hawthorn bancshares
 haymaker acquisition
@@ -2473,22 +2503,22 @@ hcp
 hd supply holdings
 hdfc bank
 health insurance innovations
-healthcare realty trust incorporated
+healthcare of america
+healthcare realty
 healthcare services group
-healthcare trust of america
 healthequity
 healthstream
 heartland express
 heartland usa
 heat biologics
-hebron technology co
+hebron
 hecla mining
 heico
-heidrick & struggles international
+heidrick struggles international
 helen of troy
 helios and matheson analytics
-helix energy solutions group
-helmerich & payne
+helix energy group
+helmerich payne
 hemisphere media group
 hemispherx biopharma
 hennessy acquisition iii
@@ -2496,17 +2526,17 @@ hennessy advisors
 henry schein
 herbalife
 herc holdings
-hercules capital
+hercules
 heritage
+heritage commerce
 heritage insurance holdings
-heritage merce corp
 heritage-crystal clean
 herman miller
 heron therapeutics  
-hersha hospitality trust
+hersha hospitality
 hershey
 hertz global holdings
-herzfeld caribbean basin fund
+herzfeld caribbean basin
 heska
 hess
 hess midstream partners
@@ -2516,7 +2546,7 @@ hexindai
 hff
 hi-crush partners
 hibbett sports
-highland floating rate opportunities fund
+highland floating rate opportunities
 highland/iboxx senior loan etf
 highpower international
 highway holdings
@@ -2524,21 +2554,21 @@ highwoods properties
 hill international
 hill-rom holdings
 hillenbrand
-hillman group trust
+hillman group
 hilltop holdings
 hilton grand vacations
 hilton worldwide holdings
-himax technologies
+himax
 hingham institution for savings
 histogenics
 hmg/courtland properties
-hmn financial
-hms holdings corp
+hmn
+hms holdings
 hni
 hoegh lng partners
-holly energy partners lp
+holly energy partners
 hollyfrontier
-hollysys automation technologies
+hollysys automation
 hologic
 home bancorp
 home bancshares
@@ -2547,50 +2577,50 @@ home federal bancorp of louisiana
 homestreet
 hometown bankshares
 hometrust bancshares
-honda motor pany
+honda motor
 honeywell international
 hooker furniture
 hope bancorp
 hopfed bancorp
 horace mann educators
 horizon bancorp (in)
+horizon finance
 horizon global
-horizon pharma plc
-horizon technology finance
+horizon pharma
 horizons dax germany etf
 horizons nasdaq-100 covered call etf
 hormel foods
 hornbeck offshore services
 hortonworks
-hospitality properties trust
-host hotels & resorts
+hospitality properties
+host hotels resorts
 hostess brands
 houghton mifflin harcourt
 houlihan lokey
 houston american energy
-houston wire & cable
+houston wire cable
 hovnanian enterprises
 howard bancorp
 howard hughes
 hp
 hrg group
-hsbc holdings plc
+hsbc holdings
 htg molecular diagnostics
 huaneng power international
 hub group
 hubbell
 hubspot
 hudbay minerals
+hudson
 hudson global
 hudson pacific properties
-hudson technologies
-hugoton royalty trust
+hugoton royalty
 humana
 hunter maritime acquisition
-huntington bancshares incorporated
+huntington bancshares
 huntington ingalls industries
 huntsman
-hurco panies
+hurco
 huron consulting group
 hutchison china meditech
 huttig building products
@@ -2605,13 +2635,13 @@ iberiabank
 ibio
 ibo (listing market - nyse amex network b f)
 icad
-icahn enterprises lp
+icahn enterprises
 icc holdings
 icf international
 ichor holdings
 icici bank
 iclick interactive asia group
-icon plc
+icon
 iconix brand group
 icu medical
 id systems
@@ -2628,7 +2658,7 @@ if bancorp
 ifresh
 ignyta
 ihs markit
-ii-vi incorporated
+ii-vi
 ikang healthcare group
 ikonics
 ilg
@@ -2651,40 +2681,40 @@ imperial oil
 imperva
 impinj
 imprimis pharmaceuticals
+income opportunity realty investors
 incyte
 independence contract drilling
 independence holding
-independence realty trust
+independence realty
 independent bank
 independent bank group
-india fund
+india
 india globalization
 industrea acquisition
 industrial services of america
 industrias bachoco sa de cv
-ine opportunity realty investors
 infinera
 infinity pharmaceuticals
 infinity property and casualty
 inflarx nv
 information services group
-infosonics corp
+infosonics
 infosys
 infrareit
 infusystems holdings
 ing group nv
-ingersoll-rand plc (ireland)
+ingersoll-rand (ireland)
 ingevity
-ingles markets incorporated
-ingredion incorporated
+ingles markets
+ingredion
 innerworkings
 innodata
 innophos holdings
 innospec
+innovative and support
 innovative industrial properties
-innovative solutions and support
 innoviva
-innsuites hospitality trust
+innsuites hospitality
 inogen
 inovalon holdings
 inovio pharmaceuticals
@@ -2692,7 +2722,7 @@ inphi
 inpixon 
 inseego
 insight enterprises
-insight select ine fund
+insight select income
 insignia systems
 insmed
 insperity
@@ -2707,8 +2737,8 @@ insys therapeutics
 intec pharma
 integer holdings
 integra lifesciences holdings
-integrated device technology
-integrated media technology
+integrated device
+integrated media
 intel
 intellia therapeutics
 intellicheck
@@ -2726,10 +2756,10 @@ intergroup
 interlink electronics
 intermolecular
 internap
-internationa flavors & fragrances
+internationa flavors fragrances
 international bancshares
 international business machines
-international game technology
+international game
 international paper
 international seaways
 international speedway
@@ -2737,7 +2767,7 @@ international tower hill mines
 internet gold golden lines
 internet initiative japan
 interpace diagnostics group
-interpublic group of panies
+interpublic group of
 intersect ent
 intersections
 interstate power and light
@@ -2753,28 +2783,28 @@ intuit
 intuitive surgical
 inuvo
 invacare
-invesco advantage municipal ine trust ii
-invesco bond fund
-invesco california value municipal ine trust
-invesco credit opportunities fund
-invesco high ine 2023 target term fund
-invesco high ine 2024 target term fund
-invesco high ine trust ii
+invesco
+invesco  for investment grade new york municipal
+invesco advantage municipal income ii
+invesco bond
+invesco california value municipal income
+invesco credit opportunities
+invesco for investment grade municipals
+invesco high income 2023 target term
+invesco high income 2024 target term
+invesco high income ii
 invesco mortgage
-invesco municipal ine opportunities trust
-invesco municipal opportunity trust
-invesco municipal trust
-invesco pennsylvania value municipal ine trust
-invesco plc
-invesco quality municipal ine trust
-invesco senior ine trust
-invesco trust  for investment grade new york municipal
-invesco trust for investment grade municipals
-invesco value municipal ine trust
+invesco municipal
+invesco municipal income opportunities
+invesco municipal opportunity
+invesco pennsylvania value municipal income
+invesco quality municipal income
+invesco senior income
+invesco value municipal income
 investar holding
-investment technology group
+investment group
 investors bancorp
-investors real estate trust
+investors real estate
 investors title
 invitae
 invitation homes
@@ -2799,14 +2829,14 @@ iq chaikin us large cap etf
 iq chaikin us small cap etf
 iqvia holdings
 iradimed
-irhythm technologies
+irhythm
 iridex
-iridium munications
+iridium communications
 irobot
-iron mountain incorporated
+iron mountain
 ironwood pharmaceuticals
 irsa inversiones y representaciones sa
-irsa propiedades erciales sa
+irsa propiedades comerciales sa
 isectors post-mpt growth etf
 ishares 0-5 year investment grade corporate bond etf
 ishares 1-3 year credit bond etf
@@ -2816,6 +2846,7 @@ ishares 20+ year treasury bond etf
 ishares 3-7 year treasury bond etf
 ishares 7-10 year treasury bond etf
 ishares asia 50 etf
+ishares commodities select strategy etf
 ishares core 1-5 year usd bond etf
 ishares core msci total international stock etf
 ishares core s&p us growth etf
@@ -2824,30 +2855,29 @@ ishares core total usd bond market etf
 ishares currency hedged msci germany etf
 ishares esg 1-5 year usd corporate bond etf
 ishares esg usd corporate bond etf
-ishares exponential technologies etf
+ishares exponential etf
 ishares fallen angels usd bond etf
-ishares ftse epra/nareit europe index fund
-ishares ftse epra/nareit global real estate ex-us index fund
+ishares ftse epra/nareit europe index
+ishares ftse epra/nareit global real estate ex-us index
 ishares global infrastructure etf
 ishares gnma bond etf
-ishares iboxx $ high yield ex oil & gas corporate bond etf
+ishares iboxx $ high yield ex oil gas corporate bond etf
 ishares intermediate credit bond etf
 ishares international treasury bond etf
 ishares jp morgan usd emerging markets bond etf
 ishares mbs etf
-ishares modities select strategy etf
 ishares morningstar mid-cap etf
-ishares msci acwi ex us index fund
-ishares msci acwi index fund
-ishares msci all country asia ex japan index fund
+ishares msci acwi ex us index
+ishares msci acwi index
+ishares msci all country asia ex japan index
 ishares msci brazil small-cap etf
 ishares msci china etf
 ishares msci eafe esg optimized etf
 ishares msci eafe small-cap etf
 ishares msci em esg optimized etf
-ishares msci emerging markets asia index fund
+ishares msci emerging markets asia index
 ishares msci emerging markets ex china etf
-ishares msci europe financials sector index fund
+ishares msci europe financials sector index
 ishares msci europe small-cap etf
 ishares msci global gold miners etf
 ishares msci global impact etf
@@ -2856,13 +2886,13 @@ ishares msci qatar etf
 ishares msci turkey etf
 ishares msci uae etf
 ishares msci usa esg optimized etf
-ishares nasdaq biotechnology index fund
-ishares phlx sox semiconductor sector index fund
+ishares nasdaq biotechnology index
+ishares phlx sox semiconductor sector index
 ishares russell 1000 pure us revenue etf
-ishares s&p emerging markets infrastructure index fund
-ishares s&p global clean energy index fund
-ishares s&p global timber & forestry index fund
-ishares s&p india nifty 50 index fund
+ishares s&p emerging markets infrastructure index
+ishares s&p global clean energy index
+ishares s&p global timber forestry index
+ishares s&p india nifty 50 index
 ishares s&p small-cap 600 growth etf
 ishares select dividend etf
 ishares short treasury bond etf
@@ -2880,19 +2910,19 @@ itron
 itt
 ituran location and control
 itus
-ivy high ine opportunities fund
+ivy high income opportunities
 ivy nextshares
 ixys
 izea
-j & j snack foods
 j alexander&#39;s holdings
+j j snack foods
 j jill
-j p morgan chase &
+j p morgan chase
 j w mays
 j2 global
-ja solar holdings co
+ja solar holdings
 jabil
-jack henry & associates
+jack henry associates
 jack in box
 jacksonville bancorp
 jacobs engineering group
@@ -2900,50 +2930,50 @@ jagged peak energy
 jaguar health
 jakks pacific
 jamba
-james hardie industries plc
+james hardie industries
 james river group holdings
-janus henderson group plc
-janus henderson sg global quality ine etf
+janus henderson group
+janus henderson sg global quality income etf
 janus henderson small cap growth alpha etf
 janus henderson small/mid cap growth alpha etf
-japan smaller capitalization fund
+japan smaller capitalization
 jason industries
-jazz pharmaceuticals plc
+jazz pharmaceuticals
 jb hunt transport services
 jbg smith properties
-jc penney pany holding
+jc penney holding
 jd
 jeld-wen holding
 jensyn acquistion
-jernigan capital
+jernigan
 jetblue airways
 jetpay
 jewett-cameron trading
-jianpu technology
+jianpu
 jinkosolar holding
 jm global holding
 jm smucker
-jmp group llc
+jmp group
 jmu
-john b sanfilippo & son
-john bean technologies
-john hancock hedged equity & ine fund
-john hancock ine securities trust
-john hancock investors trust
-john hancock opportunities fund
-john hancock pfd ine fund ii
-john hancock preferred ine fund
-john hancock preferred ine fund iii
-john hancock premium dividend fund
-john hancock tax advantaged dividend ine fund
-john hancock tax-advantaged global shareholder yield fund
-john wiley & sons
-johnson & johnson
-johnson controls international plc
+john b sanfilippo son
+john bean
+john hancock hedged equity income
+john hancock income securities
+john hancock investors
+john hancock opportunities
+john hancock pfd income ii
+john hancock preferred income
+john hancock preferred income iii
+john hancock premium dividend
+john hancock tax advantaged dividend income
+john hancock tax-advantaged global shareholder yield
+john wiley sons
+johnson controls international
+johnson johnson
 johnson outdoors
 joint
 jones energy
-jones lang lasalle incorporated
+jones lang lasalle
 jounce therapeutics
 jrjr33
 jumei international holding
@@ -2961,15 +2991,15 @@ kala pharmaceuticals
 kalvista pharmaceuticals
 kamada
 kaman
-kandi technologies group
+kandi group
 kansas city southern
 kapstone paper and packaging
 kar auction services
 karyopharm therapeutics
 kayne anderson acquisition
 kayne anderson energy development
-kayne anderson energy total return fund
-kayne anderson midstream energy fund
+kayne anderson energy total return
+kayne anderson midstream energy
 kayne anderson mlp investment
 kazia therapeutics
 kb group
@@ -2977,12 +3007,12 @@ kb home
 kbl merger iv
 kbr
 kbs fashion group
-kcap financial
+kcap
 keane group
 kearny
 kellogg
 kelly services
-kelso technologies
+kelso
 kemet
 kemper
 kempharm
@@ -2992,11 +3022,11 @@ kenon holdings
 kentucky first federal bancorp
 keryx biopharmaceuticals
 kewaunee scientific
+key
 key energy services
-key technology
 key tronic
 keycorp
-keysight technologies
+keysight
 keyw holding
 kforce
 kilroy realty
@@ -3009,7 +3039,7 @@ kinder morgan
 kindred biosciences
 kindred healthcare
 kingold jewelry
-kingstone panies
+kingstone
 kingsway services
 kingtone wirelessinfo solution holding
 kinross gold
@@ -3017,12 +3047,12 @@ kinsale group
 kirby
 kirkland lake gold
 kirkland&#39;s
-kite realty group trust
+kite realty group
 kitov pharmaceuticals holdings
-kkr & lp
-kkr holdings llc
-kkr ine opportunities fund
-kkr real estate finance trust
+kkr
+kkr holdings
+kkr income opportunities
+kkr real estate finance
 kla-tencor
 klondex mines
 klx
@@ -3036,16 +3066,16 @@ kona grill
 koninklijke philips nv
 kopin
 koppers holdings
+korea
 korea electric power
-korea fund
 korn/ferry international
 kornit digital
 kosmos energy
 koss
 kraft heinz
-kraneshares trust kraneshares csi china internet etf
+kraneshares kraneshares csi china internet etf
 kraton
-kratos defense & security solutions
+kratos defense security
 kroger
 kronos worldwide
 krystal biotech
@@ -3055,12 +3085,12 @@ kura oncology
 kvh industries
 kyocera
 l brands
-l3 technologies
+l3
 la jolla pharmaceutical
 la quinta holdings
-la-z-boy incorporated
+la-z-boy
 laboratory of america holdings
-ladder corp
+ladder
 ladenburg thalmann services
 lake shore bancorp
 lakeland
@@ -3083,15 +3113,15 @@ laredo petroleum
 las vegas sands
 lasalle hotel properties
 latam airlines group sa
-latin america equity fund
-latin american discovery fund
+latin america equity
+latin american discovery
 lattice semiconductor
 laureate education
 lawson products
 layne christensen
 lazard
-lazard global total return and ine fund
-lazard world dividend & ine fund
+lazard global total return and income
+lazard world dividend income
 lb foster
 lci industries 
 lcnb
@@ -3099,7 +3129,7 @@ leading brands
 leaf group
 leap therapeutics
 lear
-lee enterprises incorporated
+lee enterprises
 legacy acquisition
 legacy reserves
 legacytexas group
@@ -3110,7 +3140,7 @@ legg mason global infrastructure etf
 legg mason low volatility high dividend etf
 legg mason small-cap quality value etf
 legg mason us diversified core etf
-leggett & platt incorporated
+leggett platt
 lehman abs
 leidos holdings
 leisure acquisition
@@ -3124,22 +3154,22 @@ leucadia national
 level brands
 lexicon pharmaceuticals
 lexinfintech holdings
-lexington realty trust
-lg display co
+lexington realty
+lg display
 lgi homes
 lgl group
 lhc group
 lianluo smart
 libbey
-liberty all-star equity fund
-liberty all-star growth fund
+liberty all-star equity
+liberty all-star growth
 liberty broadband
 liberty expedia holdings
-liberty global plc
+liberty global
 liberty interactive
 liberty latin america
 liberty media
-liberty property trust
+liberty property
 liberty tax
 liberty tripadvisor holdings
 life storage
@@ -3147,10 +3177,10 @@ lifepoint health
 lifetime brands
 lifevantage
 lifeway foods
-ligand pharmaceuticals incorporated
+ligand pharmaceuticals
 lightbridge
-lightinthebox holding co
-lightpath technologies
+lightinthebox holding
+lightpath
 lilis energy
 limbach holdings
 limelight networks
@@ -3161,42 +3191,42 @@ lincoln national
 lindblad expeditions holdings 
 lindsay
 line
-liniu technology group
+liniu group
 lions gate entertainment
 lipocine
 liqtech international
 liquidity services
 lithia motors
 littelfuse
-livanova plc
+livanova
 live nation entertainment
 live oak bancshares
-live ventures incorporated
+live ventures
 liveperson
 lkq
-lloyds banking group plc
+lloyds banking group
 lm funding america
-lmp and ine fund
+lmp and income
 lockheed martin
 loews
 logitech international sa
 logmein
-loma negra pania industrial argentina sociedad anonima
+loma negra compania industrial argentina sociedad anonima
 loncar cancer immunotherapy etf
 lonestar resources us
 long blockchain
 long-term care etf
-longfin corp
+longfin
 loop industries
-loral space and munications
+loral space and communications
 louisiana-pacific
-lowe&#39;s panies
+lowe&#39;s
 loxo oncology
 lpl holdings
 lrad
 ls starrett
 lsb industries
-lsc munications
+lsc communications
 lsi industries
 ltc properties
 luby&#39;s
@@ -3204,38 +3234,38 @@ lululemon athletica
 lumber liquidators holdings
 lumentum holdings
 luminex
-luna innovations incorporated
+luna innovations
 luther burbank
-luxfer holdings plc
+luxfer holdings
 luxoft holding
 lydall
 lyon william homes
 lyondellbasell industries nv
-m b t corp
+m b t
 m i acquisitions
 m iii acquisition
 m&t bank
 m/i homes
-ma technology solutions holdings
 mabvax therapeutics holdings
 macatawa bank
 macerich
 mack-cali realty
 mackinac
-macquarie global infrastructure total return fund
+macom holdings
+macquarie global infrastructure total return
 macquarie infrastructure 
-macquarie/first trust global
+macquarie/first global
 macro bank
 macrogenics
 macy&#39;s
-madison covered call & equity strategy fund
+madison covered call equity strategy
 madison square garden
-madison strategic sector premium fund
+madison strategic sector premium
 madrigal pharmaceuticals
 mag silver
 magal security systems
 magellan health
-magellan midstream partners lp
+magellan midstream partners
 magic software enterprises
 magicjack vocaltec
 magna international
@@ -3245,35 +3275,34 @@ magyar bancorp
 maiden holdings
 main street
 mainsource group
-mainstay definedterm municipal opportunities fund
+mainstay definedterm municipal opportunities
 majesco
 makemytrip
 malibu boats
-mallinckrodt plc
+mallinckrodt
 malvern bancorp
 mam software group
 mammoth energy services
-managed duration investment grade municipal fund
+managed duration investment grade municipal
 manchester united
-mand security
 manhattan associates
-manhattan bridge capital
+manhattan bridge
 manitex international
-manitowoc pany
-mannatech incorporated
-manning & napier
+manitowoc
+mannatech
+manning napier
 mannkind
 manpowergroup
 mantech international
-manulife corp
+manulife
 marathon oil
 marathon patent group
 marathon petroleum
 marchex
 marcus
-marcus & millichap
-marin software incorporated
-marine petroleum trust
+marcus millichap
+marin software
+marine petroleum
 marine products
 marinemax
 marinus pharmaceuticals
@@ -3283,40 +3312,40 @@ marlin business services
 marriot vacations worldwide
 marriott international
 marrone bio innovations
-marsh & mclennan panies
+marsh mclennan
 marten transport
 martin marietta materials
-martin midstream partners lp
-marvell technology group
+martin midstream partners
+marvell group
 masco
 masimo
 masonite international
 mastec
 mastech digital
-mastercard incorporated
+mastercard
 matador resources
 match group
 materialise nv
 materion
 matinas biopharma holdings
-matlin & partners acquisition
+matlin partners acquisition
 matrix service
 matson
 mattel
 mattersight
 matthews international
-maui land & pineapple pany
-maxar technologies
+maui land pineapple
+maxar
 maxim integrated products
 maximus
 maxlinear
-maxwell technologies
+maxwell
 mazor robotics
 mb
 mbia
 mcbc holdings
 mcclatchy
-mccormick & pany incorporated
+mccormick
 mcdermott international
 mcdonald&#39;s
 mcewen mining
@@ -3327,56 +3356,51 @@ mdc partners
 mdu resources group
 mechel pao
 medallion
-medequities realty trust
-medical properties trust
+medequities realty
+medical properties
 medical transcription billing
 medicines
 medicinova
-medidata solutions
+medidata
 medifast
 medigus
 mediwound
 medley
-medley llc
 medley management
 mednax
 medpace holdings
-medtronic plc
+medtronic
 meet group
 mei pharma
-melco resorts & entertainment
+melco resorts entertainment
 melinta therapeutics
-mellanox technologies
+mellanox
 melrose bancorp
-mer telemanagement solutions
+mer telemanagement
 mercadolibre
 mercantile bank
-merce bancshares
-mercehub
 mercer international
 merchants bancorp
-mercial metals
-mercial vehicle group
-merck & pany
+merck
 mercury general
 mercury systems
 meredith
 meridian bancorp
 meridian bank
 meridian bioscience
-meridian waste solutions
+meridian waste
 merit medical systems
 meritage
 meritor
-merrill lynch & co
-merrill lynch & co 60518% index plus trust certificate
+merrill lynch
+merrill lynch 60518% index plus certificate
 merrill lynch depositor
 merrimack pharmaceuticals
 mersana therapeutics
 merus nv
 mesa laboratories
-mesa royalty trust
-mesabi trust
+mesa royalty
+mesabi
 mesoblast
 meta group
 methanex
@@ -3385,54 +3409,53 @@ metlife
 metropolitan bank holding
 mettler-toledo international
 mexco energy
-mexico equity and ine fund
-mexico fund
-mfa financial
+mexico
+mexico equity and income
+mfa
 mfc bancorp
-mfs california insured municipal trust
-mfs charter ine trust
-mfs government markets ine trust
-mfs intermediate ine trust
-mfs multimarket ine trust
-mfs municipal ine trust
-mfs special value trust
+mfs california insured municipal
+mfs charter income
+mfs government markets income
+mfs intermediate income
+mfs multimarket income
+mfs municipal income
+mfs special value
 mge energy
 mgic investment
-mgm growth properties llc
+mgm growth properties
 mgm resorts international
 mgp ingredients
 michael kors holdings
-michaels panies
-micro focus intl plc
+michaels
+micro focus intl
 microbot medical 
-microchip technology incorporated
-micron solutions
-micron technology
-micronet enertec technologies
+microchip
+micron
+micronet enertec
 microsemi
 microsoft
-microstrategy incorporated
+microstrategy
 microvision
 mid penn bancorp
-mid-america apartment munities
+mid-america apartment communities
 mid-con energy partners
-midatech pharma plc
+midatech pharma
 middleby
 middlefield banc
 middlesex water
 midland states bancorp
 midsouth bancorp
-midstates petroleum pany
+midstates petroleum
 midwestone group
 milacron holdings
 milestone scientific
 miller industries
-miller/howard high ine equity fund
+miller/howard high income equity
 mimecast
 mimedx group
 mind cti
 mindbody
-minerals technologies
+minerals
 minerva neurosciences
 miragen therapeutics
 mirati therapeutics
@@ -3446,15 +3469,15 @@ mitsubishi ufj group
 mix telematics
 mizuho group
 mks instruments
-mma management llc
+mma management
 mobile mini
 mobile telesystems ojsc
 mobileiron
 model n
 modern media acquisition
 modine manufacturing
-moduslink global solutions
-moelis &
+moduslink global
+moelis
 mohawk industries
 molecular templates
 moleculin biotech
@@ -3462,7 +3485,7 @@ molina healthcare
 molson coors brewing 
 momenta pharmaceuticals
 momo
-monarch casino & resort
+monarch casino resort
 mondelez international
 moneygram international
 mongodb
@@ -3477,31 +3500,30 @@ monster digital
 moody&#39;s
 moog
 morgan stanley
-morgan stanley asia-pacific fund
-morgan stanley china a share fund
-morgan stanley emerging markets debt fund
-morgan stanley emerging markets domestic debt fund
-morgan stanley emerging markets fund
-morgan stanley india investment fund
+morgan stanley asia-pacific
+morgan stanley china a share
+morgan stanley emerging markets
+morgan stanley emerging markets debt
+morgan stanley emerging markets domestic debt
+morgan stanley india investment
 morningstar
 mosaic
 mosaic acquisition
 mosys
-motif bio plc
+motif bio
 motorcar parts of america
-motorola solutions
+motorola
 mountain province diamonds
 movado group
 moxian
 mplx
 mrc global
-ms ine securities
-ms structured asset corp saturns ge cap corp series 2002-14
+ms income securities
+ms structured asset saturns ge cap series 2002-14
 msa safety incorporporated
 msb
-msc industrial direct pany
+msc industrial direct
 msci
-mscope holding pany
 msg networks
 mtge investment
 mts systems
@@ -3509,49 +3531,39 @@ mueller industries
 mueller water products
 mulesoft
 multi-color
-munications systems
-munity
-munity bank system
-munity bankers trust corporation
-munity first bancshares
-munity health systems
-munity healthcare trust incorporated
-munity trust bancorp
-munity west bancshares
-munivest fund
-muniyield arizona fund
+munivest
+muniyield arizona
 murphy oil
 murphy usa
 mustang bio
 mutualfirst
-mv oil trust
-mvault systems
+mv oil
 mvb
-mvc capital
+mvc
 my size
 myers industries
 mylan nv
 mynd analytics
 myokardia
 myomo
-myos rens technology
+myos rens
 myovant sciences
 myr group
 myriad genetics
 nabors industries
-nabriva therapeutics plc
+nabriva therapeutics
 nacco industries
 naked brand group
 nam tai property
 name
 nano dimension
-nanometrics incorporated
-nanostring technologies
+nanometrics
+nanostring
 nanovibronix
 nanoviricides
 nanthealth
 nantkwest
-napco security technologies
+napco security
 nasdaq
 nasdaq test stock
 natera
@@ -3561,22 +3573,22 @@ national bank holdings
 national bankshares
 national beverage
 national cinemedia
+national commerce
 national energy services reunited
 national fuel gas
-national general holdings corp
-national grid transco plc
+national general holdings
+national grid transco
 national health investors
 national healthcare
 national holdings
 national instruments
-national merce
 national oilwell varco
 national presto industries
 national research
 national retail properties
 national security group
 national steel
-national storage affiliates trust
+national storage affiliates
 national vision holdings
 national western life group
 nationstar mortgage holdings
@@ -3586,7 +3598,7 @@ natural grocers by vitamin cottage
 natural health trends
 natural resource partners
 nature&#39;s sunshine products
-natus medical incorporated
+natus medical
 natuzzi spa
 nautilus group
 navidea biopharmaceuticals
@@ -3614,8 +3626,8 @@ neophotonics
 neos therapeutics
 neothetics
 neovasc
-neptune technologies & bioresources
-net 1 ueps technologies
+neptune bioresources
+net 1 ueps
 net element
 netapp
 netease
@@ -3624,41 +3636,41 @@ netgear
 netlist
 netscout systems
 netshoes (cayman)
-netsol technologies
-network-1 technologies
-neuberger berman california intermediate municipal fund
-neuberger berman high yield strategies fund
-neuberger berman intermediate municipal fund
-neuberger berman mlp ine fund
-neuberger berman new york intermediate municipal fund
-neuberger berman real estate securities ine fund
+netsol
+network-1
+neuberger berman california intermediate municipal
+neuberger berman high yield strategies
+neuberger berman intermediate municipal
+neuberger berman mlp income
+neuberger berman new york intermediate municipal
+neuberger berman real estate securities income
 neuralstem
 neurocrine biosciences
 neurometrix
 neurotrope
-nevada gold & casinos
+nevada gold casinos
 nevro
 nevsun resources
 new age beverages
-new america high ine fund
+new america high income
 new concept energy
 new england realty associates
-new germany fund
+new germany
 new gold
 new home
-new ireland fund
+new ireland
 new media investment group
 new mountain finance
-new oriental education & technology group
+new oriental education group
 new relic
 new residential investment
 new senior investment group
-new york & pany
-new york mortgage trust
-new york munity bancorp
+new york
+new york community bancorp
+new york mortgage
 new york reit
 new york times
-newater technology
+newater
 newell brands
 newfield exploration
 newjersey resources
@@ -3670,10 +3682,10 @@ newpark resources
 news
 newtek business services
 nexa resources sa
-nexeo solutions
+nexeo
 nexgen energy
-nexpoint credit strategies fund
-nexpoint residential trust
+nexpoint credit strategies
+nexpoint residential
 nexstar media group
 nextdecade
 nextera energy
@@ -3684,10 +3696,10 @@ ni holdings
 niagara mohawk holdings
 nic
 nice
-nicholas financial
+nicholas
 nicolet bankshares
 nielsen nv
-nightstar therapeutics plc
+nightstar therapeutics
 nii holdings
 nike
 nisource
@@ -3702,21 +3714,21 @@ noble midstream partners
 nokia
 nomad foods
 nomura holdings adr
-noodles &
+noodles
 norbord
 nordic american offshore
 nordic american tankers
 nordson
 nordstrom
 norfolk souther
-nortech systems incorporated
+nortech systems
 north american energy partners
-north european oil royality trust
+north european oil royality
 northeast bancorp
+northern
 northern dynasty minerals
+northern international
 northern oil and gas
-northern technologies international
-northern trust
 northfield bancorp
 northrim bancorp
 northrop grumman
@@ -3738,100 +3750,100 @@ novavax
 novelion therapeutics 
 novo nordisk a/s
 novocure
-novume solutions
+novume
 novus therapeutics
 now
 nq mobile
 nrg energy
 nrg yield
 ntn buzztime
-ntt doo
+ntt docomo
 nu skin enterprises
-nuance munications
-nucana plc
+nuance communications
+nucana
 nucor
-nustar energy lp
-nustar gp holdings llc
-nustar logistics lp
+nustar energy
+nustar gp holdings
+nustar logistics
 nutanix
 nutrien
 nutrisystem
 nuvasive
 nuvectra
-nuveen all cap energy mlp opportunities fund
-nuveen amt-free municipal credit ine fund
-nuveen amt-free municipal value fund
-nuveen amt-free quality municipal ine fund
-nuveen arizona quality municipal ine fund
-nuveen build america bond fund
-nuveen build america bond opportunity fund
-nuveen california amt-free quality municipal ine fund
-nuveen california municipal value fund
-nuveen california municipal value fund 2
-nuveen california quality municipal ine fund
-nuveen connecticut quality municipal ine fund
-nuveen core equity alpha fund
-nuveen credit opportunities 2022 target term fund
-nuveen credit strategies ine fund
-nuveen diversified dividend and ine fund
-nuveen dow 30sm dynamic overwrite fund
-nuveen emerging markets debt 2022 target term fund
-nuveen energy mlp total return fund
-nuveen enhanced municipal value fund
-nuveen floating rate ine fund
-nuveen floating rate ine opportuntiy fund
-nuveen georgia quality municipal ine fund 
-nuveen global high ine fund
-nuveen high ine 2020 target term fund
-nuveen high ine december 2019 target term fund
-nuveen high ine november 2021 target term fund
-nuveen insured california select tax-free ine portfolio
-nuveen insured new york select tax-free ine portfolio
-nuveen intermediate duration municipal term fund
-nuveen maryland quality municipal ine fund
-nuveen massachusetts municipal ine fund
-nuveen michigan quality municipal ine fund
-nuveen minnesota quality municipal ine fund
-nuveen missouri quality municipal ine fund
-nuveen mortgage opportunity term fund
-nuveen multi-market ine fund
-nuveen municipal 2021 target term fund
-nuveen municipal credit ine fund
-nuveen municipal high ine opportunity fund
-nuveen municipal ine fund
-nuveen nasdaq 100 dynamic overwrite fund
-nuveen new jersey municipal value fund
-nuveen new jersey quality municipal ine fund
+nuveen all cap energy mlp opportunities
+nuveen amt-free municipal credit income
+nuveen amt-free municipal value
+nuveen amt-free quality municipal income
+nuveen arizona quality municipal income
+nuveen build america bond
+nuveen build america bond opportunity
+nuveen california amt-free quality municipal income
+nuveen california municipal value
+nuveen california municipal value 2
+nuveen california quality municipal income
+nuveen connecticut quality municipal income
+nuveen core equity alpha
+nuveen credit opportunities 2022 target term
+nuveen credit strategies income
+nuveen diversified dividend and income
+nuveen dow 30sm dynamic overwrite
+nuveen emerging markets debt 2022 target term
+nuveen energy mlp total return
+nuveen enhanced municipal value
+nuveen floating rate income
+nuveen floating rate income opportuntiy
+nuveen georgia quality municipal income 
+nuveen global high income
+nuveen high income 2020 target term
+nuveen high income december 2019 target term
+nuveen high income november 2021 target term
+nuveen insured california select tax-free income portfolio
+nuveen insured new york select tax-free income portfolio
+nuveen intermediate duration municipal term
+nuveen maryland quality municipal income
+nuveen massachusetts municipal income
+nuveen michigan quality municipal income
+nuveen minnesota quality municipal income
+nuveen missouri quality municipal income
+nuveen mortgage opportunity term
+nuveen multi-market income
+nuveen municipal 2021 target term
+nuveen municipal credit income
+nuveen municipal high income opportunity
+nuveen municipal income
+nuveen nasdaq 100 dynamic overwrite
+nuveen new jersey municipal value
+nuveen new jersey quality municipal income
 nuveen new york amt-free quality municipal
-nuveen new york municipal value fund
-nuveen new york municipal value fund 2
-nuveen new york quality municipal ine fund
-nuveen north carolina quality municipal ine fd
-nuveen ohio quality municipal ine fund
-nuveen pennsylvania municipal value fund
-nuveen pennsylvania quality municipal ine fund
-nuveen preferred & ine opportunities fund
-nuveen preferred & ine securities fund
-nuveen preferred and ine 2022 term fund
-nuveen preferred and ine term fund
-nuveen quality municipal ine fund
-nuveen real asset ine and growth fund
-nuveen real estate fund
-nuveen s&p 500 buy-write ine fund
-nuveen s&p 500 dynamic overwrite fund
-nuveen select maturities municipal fund
-nuveen select tax free ine portfolio
-nuveen select tax free ine portfolio ii
-nuveen select tax free ine portfolio iii
-nuveen senior ine fund
-nuveen short duration credit opportunities fund
-nuveen tax-advantaged dividend growth fund
-nuveen tax-advantaged total return strategy fund
-nuveen texas quality municipal ine fund
-nuveen virginia quality municipal ine fund
-nuveenn intermediate duration quality municipal term fund
-nuven mortgage opportunity term fund 2
-nuverra environmental solutions
+nuveen new york municipal value
+nuveen new york municipal value 2
+nuveen new york quality municipal income
+nuveen north carolina quality municipal income fd
+nuveen ohio quality municipal income
+nuveen pennsylvania municipal value
+nuveen pennsylvania quality municipal income
+nuveen preferred and income 2022 term
+nuveen preferred and income term
+nuveen preferred income opportunities
+nuveen preferred income securities
+nuveen quality municipal income
+nuveen real asset income and growth
+nuveen real estate
+nuveen s&p 500 buy-write income
+nuveen s&p 500 dynamic overwrite
+nuveen select maturities municipal
+nuveen select tax free income portfolio
+nuveen select tax free income portfolio ii
+nuveen select tax free income portfolio iii
+nuveen senior income
+nuveen short duration credit opportunities
+nuveen tax-advantaged dividend growth
+nuveen tax-advantaged total return strategy
+nuveen texas quality municipal income
+nuveen virginia quality municipal income
+nuveenn intermediate duration quality municipal term
+nuven mortgage opportunity term 2
+nuverra environmental
 nv5 global
 nve
 nvidia
@@ -3843,9 +3855,9 @@ nymox pharmaceutical
 o&#39;reilly automotive
 o2micro international
 oak valley bancorp (ca)
-oaktree group llc
+oaktree group
 oaktree specialty lending
-oaktree strategic ine
+oaktree strategic income
 oasis midstream partners
 oasis petroleum
 oasmia pharmaceutical ab
@@ -3855,11 +3867,11 @@ obseva sa
 obsidian energy
 occidental petroleum
 ocean bio-chem
-ocean power technologies
+ocean power
 ocean rig udw
 oceaneering international
 oceanfirst
-och-ziff management group llc
+och-ziff management group
 oci partners
 oclaro
 oconee federal
@@ -3887,28 +3899,28 @@ old second bancorp
 olin
 ollie&#39;s bargain outlet holdings
 olympic steel
-om asset management plc
+om asset management
 omega flex
 omega healthcare investors
 omeros
 ominto
-omni group
 omnicell
-omnova solutions
+omnicom group
+omnova
 on assignment
-on deck capital
+on deck
 on semiconductor
 on track innovations
 oncobiologics
 oncocyte
+oncomed pharmaceuticals
 onconova therapeutics
-oncosec medical incorporated
+oncosec medical
 one
 one gas
 one group hospitality
 one horizon group
 one liberty properties
-oned pharmaceuticals
 onemain holdings
 oneok
 ooma
@@ -3927,11 +3939,11 @@ oracle
 oragenics
 oramed pharmaceuticals
 orange
-orasure technologies
+orasure
+orbcomm
 orbital atk
-orbm
 orbotech
-orchid island capital
+orchid island
 orchids paper products
 orexigen therapeutics
 organics etf
@@ -3943,8 +3955,8 @@ orion energy systems
 orion engineered carbons sa
 orion group holdings
 oritani
-orix corp ads
-ormat technologies
+orix ads
+ormat
 orrstown services
 orthofix international nv
 orthopediatrics
@@ -3952,7 +3964,7 @@ oshkosh
 osi systems
 osisko gold royalties
 osprey energy acquisition
-ossen innovation co
+ossen innovation
 otelco
 otonomy
 ottawa bancorp
@@ -3962,52 +3974,47 @@ ovascience
 overseas shipholding group
 overstock
 ovid therapeutics
-owens & minor
 owens corning
+owens minor
 owens realty mortgage
 owens-illinois
 oxbridge re holdings
-oxford immunotec global plc
+oxford immunotec global
 oxford industries
 oxford lane
-p & f industries
-p en de mn cemig ads
+p f industries
 paccar
-pacific american ine shares
+pacific american income shares
 pacific biosciences of california
-pacific coast oil trust
+pacific coast oil
 pacific ethanol
-pacific gas & electric
+pacific gas electric
 pacific mercantile bancorp
 pacific premier bancorp
 pacira pharmaceuticals
 packaging of america
 pacwest bancorp
 pain therapeutics
-palatin technologies
+palatin
 palo alto networks
 pam transportation services
 pampa energia sa
 pan american silver
 pandora media
-pangaea logistics solutions
+pangaea logistics
 panhandle royalty
-panhia brasileira de distribuicao
-panhia de saneamento basico do estado de sao paulo - sabesp
-panhia paranaense de energia (copel)
-pania cervecerias unidas sa
 papa john&#39;s international
 papa murphy&#39;s holdings
+par
 par pacific holdings
-par technology
-paragon mercial
+paragon commercial
 paramount gold nevada
 paramount group
 paratek pharmaceuticals 
 pareteum
 park city group
 park electrochemical
-park hotels & resorts
+park hotels resorts
 park national
 park-ohio holdings
 parke bancorp
@@ -4015,21 +4022,19 @@ parker drilling
 parker-hannifin
 parkervision
 parsley energy
-partner munications
+partner communications
 partnerre
 party city holdco
-pass diversified holdings
-pass minerals international
 pathfinder bancorp
 patrick industries
 patriot national bancorp
 patriot transportation holding
 pattern energy group
-patterson panies
+patterson
 patterson-uti energy
 pavmed
-pay software
 paychex
+paycom software
 paylocity holding
 payment data systems
 paypal holdings
@@ -4041,15 +4046,15 @@ pc-tel
 pcm
 pcsb
 pdc energy
-pdf solutions
+pdf
 pdl biopharma
-pdl munity bancorp
+pdl community bancorp
 pdvwireless
 peabody energy
 peak resorts
 peapack-gladstone
-pearson plc
-pebblebrook hotel trust
+pearson
+pebblebrook hotel
 pedevco
 pegasystems
 pembina pipeline
@@ -4059,14 +4064,14 @@ penn virginia
 pennantpark floating rate
 pennantpark investment
 penns woods bancorp
-pennsylvania real estate investment trust
-pennymac mortgage investment trust
+pennsylvania real estate investment
+pennymac mortgage investment
 pennymac services
 pensare acquisition
 penske automotive group
-pentair plc
+pentair
 penumbra
-people&#39;s united financial
+people&#39;s united
 people&#39;s utah bancorp
 peoples bancorp
 peoples bancorp of north carolina
@@ -4080,7 +4085,7 @@ perion network
 perkinelmer
 perma-fix environmental services
 perma-pipe international holdings
-permian basin royalty trust
+permian basin royalty
 pernix therapeutics holdings
 perrigo
 perry ellis international
@@ -4096,7 +4101,7 @@ pfizer
 pfsweb
 pgt innovations
 phaserx
-phh corp
+phh
 phi
 phibro animal health
 philip morris international
@@ -4104,56 +4109,56 @@ phillips 66
 phillips 66 partners
 phoenix new media
 photronics
-physicians realty trust
+physicians realty
 pico holdings
-piedmont office realty trust
+piedmont office realty
 pier 1 imports
 pieris pharmaceuticals
 pilgrim&#39;s pride
-pimco california municipal ine fund
-pimco california municipal ine fund ii
-pimco california municipal ine fund iii
-pimco corporate & ine opportunity fund
-pimco corporate & ine stategy fund
-pimco dynamic credit and mortgage ine fund
-pimco dynamic ine fund
-pimco global stocksplus & ine fund
-pimco high ine fund
-pimco ine opportunity fund
-pimco ine strategy fund
-pimco ine strategy fund ii
-pimco mercial mortgage securities trust
-pimco municipal ine fund
-pimco municipal ine fund ii
-pimco municipal ine fund iii
-pimco new york municipal ine fund
-pimco new york municipal ine fund ii
-pimco new york municipal ine fund iii
-pimco strategic ine fund
+pimco california municipal income
+pimco california municipal income ii
+pimco california municipal income iii
+pimco commercial mortgage securities
+pimco corporate income opportunity
+pimco corporate income stategy
+pimco dynamic credit and mortgage income
+pimco dynamic income
+pimco global stocksplus income
+pimco high income
+pimco income opportunity
+pimco income strategy
+pimco income strategy ii
+pimco municipal income
+pimco municipal income ii
+pimco municipal income iii
+pimco new york municipal income
+pimco new york municipal income ii
+pimco new york municipal income iii
+pimco strategic income
 pingtan marine enterprise
 pinnacle entertainment
 pinnacle foods
 pinnacle partners
 pinnacle west
-pioneer diversified high ine trust
+pioneer diversified high income
 pioneer energy services
-pioneer floating rate trust
-pioneer high ine trust
-pioneer municipal high ine advantage trust
-pioneer municipal high ine trust
+pioneer floating rate
+pioneer high income
+pioneer municipal high income
+pioneer municipal high income advantage
 pioneer natural resources
-pioneer power solutions
-piper jaffray panies
+pioneer power
+piper jaffray
 pitney bowes
 pixelworks
 pjt partners
-plains all american pipeline lp
-plains group holdings lp
+plains all american pipeline
+plains group holdings
 planet fitness
 plantronics
 platform specialty products
 platinum group metals
-playa hotels & resorts nv
+playa hotels resorts nv
 pldt
 plexus
 plug power
@@ -4196,18 +4201,18 @@ powershares dwa emerging markets momentum portfolio
 powershares dwa energy momentum portfolio
 powershares dwa healthcare momentum portfolio
 powershares dwa industrials momentum portfolio
-powershares dwa momentum & low volatility rotation portfolio
+powershares dwa momentum low volatility rotation portfolio
 powershares dwa momentum portfolio
+powershares dwa momenum portfolio
 powershares dwa nasdaq momentum portfolio
 powershares dwa smallcap momentum portfolio
-powershares dwa tactical multi-asset ine portfolio
+powershares dwa tactical multi-asset income portfolio
 powershares dwa tactical sector rotation portfolio
-powershares dwa technology momenum portfolio
 powershares dwa utilities momentum portfolio
 powershares ftse international low beta equal weight portfolio
 powershares ftse rafi us 1500 small-mid portfolio
 powershares global agriculture portfolio
-powershares global gold & precious metals portfolio
+powershares global gold precious metals portfolio
 powershares global water portfolio
 powershares golden dragon china portfolio
 powershares high yield equity dividend achievers portfolio
@@ -4216,13 +4221,13 @@ powershares international dividend achievers portfolio
 powershares kbw bank portfolio
 powershares kbw high dividend yield portfolio
 powershares kbw premium yield equity reit portfolio
-powershares kbw property & casualty insurance portfolio
+powershares kbw property casualty insurance portfolio
 powershares kbw regional banking portfolio
 powershares ladderrite 0-5 year corporate bond portfolio
 powershares multi-strategy alternative portfolio
 powershares nasdaq internet portfolio
-powershares optimum yield diversified modity strategy no k-
-powershares qqq trust series 1
+powershares optimum yield diversified commodity strategy no k-
+powershares qqq series 1
 powershares russell 1000 low beta equal weight portfolio
 powershares s&p smallcap consumer discretionary portfolio
 powershares s&p smallcap consumer staples portfolio
@@ -4230,7 +4235,7 @@ powershares s&p smallcap energy portfolio
 powershares s&p smallcap financials portfolio
 powershares s&p smallcap health care portfolio
 powershares s&p smallcap industrials portfolio
-powershares s&p smallcap information technology portfolio
+powershares s&p smallcap information portfolio
 powershares s&p smallcap materials portfolio
 powershares s&p smallcap utilities portfolio
 powershares variable rate investment grade portfolio
@@ -4239,7 +4244,7 @@ ppdai group
 ppg industries
 ppl
 ppl funding
-pplus trust
+pplus
 pq group holdings
 pra group
 pra health sciences
@@ -4247,12 +4252,12 @@ prana biotechnology
 praxair
 precipio
 precision drilling
-preferred apartment munities
+preferred apartment communities
 preferred bank
 preformed line products
 premier
 premier bancorp
-presbia plc
+presbia
 presidio
 prestige brand holdings
 pretium resources
@@ -4269,15 +4274,15 @@ principal healthcare innovators index etf
 principal international multi-factor index etf
 principal millennials index etf
 principal price setters index etf
-principal real estate ine fund
+principal real estate income
 principal shareholder yield index etf
 principal sustainable momentum index etf
 principal us mega-cap multi-factor index etf
 principal us small-cap multi-factor index etf
 pro-dex
 proassurance
-procter & gamble
-product partners lp
+procter gamble
+product partners
 professional diversity network
 profire energy
 progenics pharmaceuticals
@@ -4302,41 +4307,37 @@ protagonist therapeutics
 protalix biotherapeutics
 proteon therapeutics
 proteostasis therapeutics
-prothena plc
+prothena
 proto labs
 providence service
 provident bancorp
 provident holdings
 provident services
+prudential
 prudential bancorp
-prudential financial
-prudential global short duration high yield fund
+prudential global short duration high yield
 prudential public
-prudential short duration high yield fund
+prudential short duration high yield
 ps business parks
 psivida
 psychemedics
 pt telekomunikasi indonesia tbk
 ptc
 ptc therapeutics
-public service enterprise group incorporated
+public service enterprise group
 public storage
-pugen
 pulmatrix
 pulse biosciences
 pultegroup
 puma biotechnology
 pure cycle
 pure storage 
-puter programs and systems
-puter task group incorporated
-putnam high ine bond fund
-putnam managed municipal ine trust
-putnam master intermediate ine trust
-putnam municipal opportunities trust
-putnam premier ine trust
+putnam high income bond
+putnam managed municipal income
+putnam master intermediate income
+putnam municipal opportunities
+putnam premier income
 pvh
-px international
 pyxis tankers
 pzena investment management
 q2 holdings
@@ -4344,48 +4345,47 @@ qad
 qcr holdings
 qep resources
 qiagen nv
-qiwi plc
+qiwi
 qorvo
-qts realty trust
+qts realty
 quad graphics
 quaker chemical
+qualcomm
 quality care properties
 quality systems
-qualm incorporated
 qualstar
 qualys
 quanex building products
 quanta services
-quantenna munications
+quantenna communications
 quanterix
 quantum
 quarterhill
 qudian
-quest diagnostics incorporated
-quest resource holding corporation
+quest diagnostics
+quest resource holding
 quicklogic
 quidel
 quinstreet
 qumu
 quorum health
 quotient
-quotient technology
 qwest
 r1 rcm
 ra pharmaceuticals
-rad
 rada electronic industries
+radcom
 radian group
 radiant logistics
 radisys
 radius health
 radnet
 radware
-rait trust
+rait
 ralph lauren
 ramaco resources
 rambus
-ramco-gershenson properties trust
+ramco-gershenson properties
 rand
 randgold resources
 randolph bancorp
@@ -4394,24 +4394,24 @@ ranger energy services
 rapid7
 rave restaurant group
 raven industries
-raymond james financial
+raymond james
 rayonier
 rayonier advanced materials
 raytheon
 rbb bancorp
-rbc bearings incorporated
+rbc bearings
 rci hospitality holdings
-rcm technologies
+rcm
 re/max holdings
 reading international
 real goods solar
 realnetworks
 realogy holdings
 realpage
-realty ine
+realty income
 reata pharmaceuticals
-reaves utility ine fund
-recon technology
+reaves utility income
+recon
 recro pharma
 red hat
 red lion hotels
@@ -4419,7 +4419,7 @@ red robin gourmet burgers
 red rock resorts
 redfin
 redhill biopharma
-redwood trust
+redwood
 reeds
 regal beloit
 regal entertainment group
@@ -4432,21 +4432,21 @@ regional management
 regions
 regis
 regulus therapeutics
-reinsurance group of america incorporated
+reinsurance group of america
 reis
-reliance steel & aluminum
+reliance steel aluminum
 reliant bancorp
 reliv&#39; international
 relm wireless
+relx
 relx nv
-relx plc
 remark holdings
 renaissancere holdings
 renasant
 renesola
 renewable energy group
 renmin tianli group
-renn fund
+renn
 renren
 rent-a-center
 repligen
@@ -4454,7 +4454,7 @@ repros therapeutics
 republic bancorp
 republic first bancorp
 republic services
-research frontiers incorporated
+research frontiers
 reshape lifesciences
 resmed
 resolute energy
@@ -4467,13 +4467,13 @@ restoration robotics
 retail opportunity investments
 retail properties of america
 reto eco-solutions
-retractable technologies
+retractable
 retrophin
 rev group
 revance therapeutics
 reven housing reit
 revlon
-revolution lighting technologies
+revolution lighting
 rewalk robotics
 rex american resources
 rex energy
@@ -4484,31 +4484,31 @@ rf industries
 rgc resources
 rh
 rhythm pharmaceuticals
-ribbon munications 
+ribbon communications 
 rice midstream partners
-ricebran technologies
+ricebran
 richardson electronics
 rigel pharmaceuticals
 rignet
 rimini street
 ring energy
 ringcentral
-rio tinto plc
+rio tinto
 riot blockchain
 rise education cayman
-ritchie bros auctioneers incorporated
+ritchie bros auctioneers
 rite aid
 ritter pharmaceuticals
 rivernorth marketplace lending
-rivernorth opportunities fund
-rivernorth/doubleline strategic opportunity fund
+rivernorth opportunities
+rivernorth/doubleline strategic opportunity
 riverview bancorp
 rli
 rlj entertainment
-rlj lodging trust
+rlj lodging
 rmg networks holding
 rmr group
-rmr real estate ine fund
+rmr real estate income
 roadrunner transportation systems
 robert half international
 robo global robotics and automation index etf
@@ -4519,37 +4519,37 @@ rockwell medical
 rocky brands
 rocky mountain chocolate factory
 rogers
-rogers munication
+rogers communication
 roku
 rollins
-roper technologies
+roper
 rosehill resources
 rosetta genomics
 rosetta stone
 ross stores
-rowan panies plc
+rowan
 royal bank of canada
-royal bank scotland plc
+royal bank scotland
 royal caribbean cruises
-royal dutch shell plc
+royal dutch shell
 royal gold
-royce global value trust
-royce micro-cap trust
-royce value trust
+royce global value
+royce micro-cap
+royce value
 rpc
 rpm international
 rpx
-rr donnelley & sons
+rr donnelley sons
 rsp permian
 rti surgical
+rubicon
 rubicon project
-rubicon technology
-rudolph technologies
+rudolph
 rumbleon
 rush enterprises
 ruth&#39;s hospitality group
 rxi pharmaceuticals
-ryanair holdings plc
+ryanair holdings
 ryb education
 ryder system
 ryerson holding
@@ -4558,32 +4558,32 @@ s&p global
 s&t bancorp
 s&w seed
 saban acquisition
-sabine royalty trust
+sabine royalty
 sabra health care reit
 sabre
 sachem
 saexploration holdings
 safe bulkers
 safeguard scientifics
-safety ine and growth
+safety income and growth
 safety insurance group
-saga munications
+saga communications
 sage therapeutics
 saia
-sailpoint technologies holdings
+sailpoint holdings
 salem media group
 salesforce
-salient midstream & mlp fund
+salient midstream mlp
 salisbury bancorp
 sally beauty holdings
-san juan basin royalty trust
+san juan basin royalty
 sanchez energy
 sanchez midstream partners
 sanderson farms
 sandridge energy
-sandridge mississippian trust i
-sandridge mississippian trust ii
-sandridge permian trust
+sandridge mississippian i
+sandridge mississippian ii
+sandridge permian
 sandstorm gold
 sandy spring bancorp
 sangamo therapeutics
@@ -4593,13 +4593,13 @@ santander consumer usa holdings
 santander holdings usa
 sap se
 sapiens international nv
-saratoga investment corp
+saratoga investment
 sarepta therapeutics
 sasol
 saul centers
 savara
 sb group
-sba munications
+sba communications
 scana
 scansource
 schlumberger nv
@@ -4609,16 +4609,16 @@ schnitzer steel industries
 scholastic
 schweitzer-mauduit international
 science applications international
-scientific games corp
+scientific games
 scorpio bulkers
 scorpio tankers
 scotts miracle-gro
 scpharmaceuticals
 scripps networks interactive
-scudder multi-market ine trust
-scudder municiple ine trust
-scudder strategic ine trust
-scudder strategic municiple ine trust
+scudder multi-market income
+scudder municiple income
+scudder strategic income
+scudder strategic municiple income
 scynexis
 sea
 seaboard
@@ -4628,10 +4628,10 @@ seacoast banking of florida
 seacor holdings
 seacor marine holdings
 seadrill
-seadrill partners llc
-seagate technology plc
+seadrill partners
+seagate
 sealed air
-seanergy maritime holdings corp
+seanergy maritime holdings
 sears holdings
 sears hometown and outlet stores
 seaspan
@@ -4646,7 +4646,7 @@ sei investments
 select asset
 select bancorp
 select energy services
-select ine reit
+select income reit
 select medical holdings
 selecta biosciences
 selective insurance group
@@ -4659,15 +4659,15 @@ semtech
 sendgrid
 seneca foods
 senestech
-senior housing properties trust
+senior housing properties
 senior living
 senomyx
-sensata technologies holding nv
+sensata holding nv
 senseonics holdings
-sensient technologies
+sensient
 sensus healthcare
 sentinel energy services
-sequans munications sa
+sequans communications sa
 sequential brands group
 seres therapeutics
 seritage growth properties
@@ -4683,18 +4683,18 @@ sg blocks
 sgoco group
 shake shack
 sharing economy international
-sharps pliance corp
+sharps compliance
 sharpspring
-shaw munications
-shell midstream partners lp
-shenandoah telemunications
+shaw communications
+shell midstream partners
+shenandoah telecommunications
 sherwin-williams
 shiftpixy
 shiloh industries
 shineco
 shinhan group
 ship finance international
-shire plc
+shire
 shoe carnival
 shopify
 shore bancshares
@@ -4711,44 +4711,44 @@ sierra metals
 sierra oncology
 sierra wireless
 sifco industries
-sify technologies
+sify
 sigma designs
 sigma labs
 sigmatron international
 signature bank
 signet jewelers
 silgan holdings
-sili
+silicom
 silicon laboratories
-silicon motion technology
-siliconware precision industries pany
+silicon motion
+siliconware precision industries
 silver run acquisition ii
 silverbow resorces
 silvercorp metals
 silvercrest asset management group
-silversun technologies
+silversun
 simmons first national
 simon property group
 simply good foods
-simpson manufacturing pany
+simpson manufacturing
 simulations plus
 sina
 sinclair broadcast group
 sino-global shipping america
-sinopec shangai petrochemical pany
+sinopec shangai petrochemical
 sinovac biotech
 sirius xm holdings
 siteone landscape supply
 sito mobile
 six flags entertainment new
 sjw group
-sk tele co
+sk telecom
 skechers usa
 sky solar holdings
 skyline
 skyline medical
 skywest
-skyworks solutions
+skyworks
 sl green realty
 sleep number
 slm
@@ -4757,12 +4757,12 @@ smart
 smart global holdings
 smart sand
 smartfinancial
-smith & nephew snats
 smith (ao)
 smith micro software
+smith nephew snats
 smtc
 snap
-snap-on incorporated
+snap-on
 snyder&#39;s-lance
 social hedosophia holdings
 social reality
@@ -4773,7 +4773,7 @@ sogou
 sohu
 solar
 solar senior
-solaredge technologies
+solaredge
 solaris oilfield infrastructure
 soleno therapeutics
 soligenix
@@ -4783,17 +4783,17 @@ sonic automotive
 sonic foundry
 sonoco products
 sonoma pharmaceuticals
-sony corp ord
+sony ord
 sophiris bio
 sorl auto parts
 sorrento therapeutics
 sotheby&#39;s
 sotherly hotels
 sound bancorp
-source capital
+source
 south jersey industries
 south state
-southcross energy partners lp
+southcross energy partners
 southern
 southern california edison
 southern copper
@@ -4814,54 +4814,54 @@ spark therapeutics
 spartan motors
 spartannash
 sparton
-spdr dorsey wright fixed ine allocation etf
-special opportunities fund
+spdr dorsey wright fixed income allocation etf
+special opportunities
 spectra energy partners
 spectrum brands holdings
 spectrum pharmaceuticals
 speedway motorsports
 spero therapeutics
 sphere 3d
-spherix incorporated
-spi energy co
+spherix
+spi energy
 spire
 spirit aerosystems holdings
 spirit airlines
-spirit realty capital
+spirit realty
 splunk
 spok holdings
 sportsman&#39;s warehouse holdings
 sprague resources
 spring bank pharmaceuticals
 sprint
-sprott focus trust
+sprott focus
 sprouts farmers market
-sps merce
+sps commerce
 spx
 spx flow
 square
 src energy
-ss&c technologies holdings
+ss&c holdings
 ssr mining
 st joe
 staar surgical
-staffing 360 solutions
+staffing 360
 stag industrial
 stage stores
 stamps
 standard motor products
 standex international
-stanley black & decker
-stanley furniture pany
+stanley black decker
+stanley furniture
 stantec
 star bulk carriers
-star group lp
+star group
 starbucks
 stars group
 startek
-starwood property trust
+starwood property
 state auto
-state bank corporation
+state bank
 state street
 statoil asa
 steadymed
@@ -4876,39 +4876,36 @@ stellus investment
 stemline therapeutics
 stepan
 stericycle
-steris plc
+steris
 sterling bancorp
 sterling construction
 steven madden
-stewardship corp
+stewardship
 stewart information services
 stifel
 stitch fix
 stmicroelectronics nv
-stock holding panies
-stock mining
-stock resources
 stock yards bancorp
 stone energy
-stone harbor emerging markets ine fund
-stone harbor emerging markets total ine fund
-stonecastle corp
-stonemor partners lp
+stone harbor emerging markets income
+stone harbor emerging markets total income
+stonecastle
+stonemor partners
 stoneridge
 store
-straight path munications
+straight path communications
 strata skin sciences
 stratasys
-strats trust
+strats
 strattec security
 stratus properties
 strayer education
-streamline health solutions
-strongbridge biopharma plc
+streamline health
+strongbridge biopharma
 stryker
 student transportation
-sturm ruger & pany
-suburban propane partners lp
+sturm ruger
+suburban propane partners
 sucampo pharmaceuticals
 sumitomo mitsui group
 summer infant
@@ -4917,13 +4914,13 @@ summit hotel properties
 summit materials
 summit midstream partners
 summit state bank
-summit therapeutics plc
+summit therapeutics
 sun bancorp
+sun communities
 sun hydraulics
 sun life
-sun munities
 suncoke energy
-suncoke energy partners lp
+suncoke energy partners
 suncor energy 
 sundance energy australia
 sunesis pharmaceuticals
@@ -4935,9 +4932,9 @@ sunrun
 sunstone hotel investors
 suntrust banks
 sunworks
-super
-super micro puter
-superconductor technologies
+super micro computer
+supercom
+superconductor
 superior drilling products
 superior energy services
 superior industries international
@@ -4950,14 +4947,14 @@ surmodics
 sussex bancorp
 sutherland asset management
 svb group
-swiss helvetia fund
+swiss helvetia
 switch
-sykes enterprises incorporated
+sykes enterprises
 symantec
 synacor
 synalloy
-synaptics incorporated
-synchronoss technologies
+synaptics
+synchronoss
 synchrony
 syndax pharmaceuticals
 syneos health
@@ -4969,8 +4966,8 @@ synovus
 syntel
 synthesis energy systems
 synthetic biologics
-synthetic fixed-ine securities
-sypris solutions
+synthetic fixed-income securities
+sypris
 syros pharmaceuticals
 sysco
 systemax
@@ -4979,14 +4976,14 @@ t-mobile us
 t2 biosystems
 tableau software
 tabula rasa healthcare
-tactile systems technology
+tactile systems
 tahoe resources
 tailored brands
-taitron ponents incorporated
-taiwan fund
+taitron components
+taiwan
 taiwan semiconductor manufacturing
 take-two interactive software
-takung art co
+takung art
 tal education group
 talend sa
 tallgrass energy gp
@@ -5004,7 +5001,7 @@ targa resources partners
 target
 taro pharmaceutical industries
 taseko mines
-tat technologies
+tat
 tata motors
 taubman centers
 taylor devices
@@ -5013,36 +5010,35 @@ tc pipelines
 tcf
 tcg bdc
 tcp
-tcw strategic ine fund
+tcw strategic income
 td ameritrade holding
 tdh holdings
 te connectivity
 team
 tech data
-tech telemunications
-technical munications
-technipfmc plc
+technical communications
+technipfmc
 techtarget
 teck resources
 tecnoglass
 tecogen
 teekay
-teekay lng partners lp
-teekay offshore partners lp
+teekay lng partners
+teekay offshore partners
 teekay tankers
 tegna
 tejon ranch
 tekla healthcare investors
-tekla healthcare opportunies fund
+tekla healthcare opportunies
 tekla life sciences investors
-tekla world healthcare fund
+tekla world healthcare
 tel-instrument electronics
 teladoc
 telaria
-tele argentina stet - france tele sa
-tele italia spa
-teledyne technologies incorporated
-teleflex incorporated
+telecom argentina stet - france telecom sa
+telecom italia spa
+teledyne
+teleflex
 telefonica brasil sa
 telefonica sa
 telenav
@@ -5050,10 +5046,10 @@ telephone and data systems
 teligent
 tellurian
 telus
-templeton dragon fund
-templeton emerging markets fund
-templeton emerging markets ine fund
-templeton global ine fund
+templeton dragon
+templeton emerging markets
+templeton emerging markets income
+templeton global income
 tempur sealy international
 tenaris sa
 tenax therapeutics
@@ -5066,26 +5062,26 @@ teradata
 teradyne
 terex
 ternium sa
-terra nitrogen pany lp
+terra nitrogen
 terraform power
 terreno realty
 territorial bancorp
 tesaro
 tesla 
-tessco technologies incorporated
+tessco
+tetra
 tetra tech
-tetra technologies
 tetraphase pharmaceuticals
 teva pharmaceutical industries
 texas bancshares
-texas instruments incorporated
-texas pacific land trust
+texas instruments
+texas pacific land
 texas roadhouse
 textainer group holdings
 textron
 tfs
 tg therapeutics
-thai fund
+thai
 the9
 therapeuticsmd
 therapix biosciences
@@ -5095,13 +5091,13 @@ thermon group holdings
 thestreet
 third point reinsurance
 thl credit
-thl credit senior loan fund
-thomson reuters corp
+thl credit senior loan
+thomson reuters
 thor industries
 ticc
 tidewater
 tier reit
-tiffany &
+tiffany
 tigenix
 tile shop hldgs
 till
@@ -5119,7 +5115,7 @@ titan machinery
 titan pharmaceuticals
 tivity health
 tivo
-tjx panies
+tjx
 tocagen
 toll brothers
 tompkins
@@ -5131,14 +5127,14 @@ topbuild
 tor minerals international
 torchlight energy resources
 torchmark
-torm plc
+torm
 toro
 toronto dominion bank
-tortoise energy independence fund
+tortoise energy independence
 tortoise energy infrastructure
-tortoise mlp fund
-tortoise pipeline & energy fund
-tortoise power and energy infrastructure fund
+tortoise mlp
+tortoise pipeline energy
+tortoise power and energy infrastructure
 total sa
 total system services
 tower international
@@ -5146,39 +5142,39 @@ tower semiconductor
 town sports international holdings
 towne bank
 townsquare media
-toyota motor corp ord
+toyota motor ord
 tpg pace energy holdings
 tpg pace holdings
-tpg re finance trust
+tpg re finance
 tpg specialty lending
-tpi posites
+tpi composites
 tracon pharmaceuticals
 tractor supply
 trade desk
 trans world entertainment
-transact technologies incorporated
+transact
 transalta
 transatlantic petroleum
 transcanada
 transcat
 transcontinental realty investors
-transdigm group incorporated
+transdigm group
 transenterix
 transglobe energy
-transmontaigne partners lp
+transmontaigne partners
 transocean
 transportadora de gas sa ord b
 transunion
-travelcenters of america llc
-travelers panies
+travelcenters of america
+travelers
 travelport worldwide
 travelzoo
 trecora resources
 tredegar
 treehouse foods
-tremont mortgage trust
+tremont mortgage
 trevena
-trex pany
+trex
 tri continental
 tri pointe group
 triangle
@@ -5189,7 +5185,7 @@ trilogy metals
 trimas
 trimble
 trinet group
-trinity biotech plc
+trinity biotech
 trinity industries
 trinity place holdings
 trinseo sa
@@ -5209,13 +5205,12 @@ trueblue
 truecar
 truett-hurst
 trupanion
-trust
-trustco bank corp ny
+trustco bank ny
 trustmark
 tsakos energy navigation
 tsr
 ttec holdings
-ttm technologies
+ttm
 tucows
 tuesday morning
 tuniu
@@ -5227,17 +5222,17 @@ turtle beach
 tutor perini
 twenty-first century fox
 twilio
-twin disc incorporated
+twin disc
 twitter
-two harbors investments corp
+two harbors investments
 two river bancorp
-tyler technologies
-tyme technologies
+tyler
+tyme
 tyson foods
 u s concrete
 ubiquiti networks
 ubs ag
-ufp technologies
+ufp
 ugi
 ulta beauty
 ultimate software group
@@ -5253,38 +5248,38 @@ under armour
 unico american
 unifi
 unifirst
+unilever
 unilever nv
-unilever plc
 union bankshares
 union pacific
 unique fabricating
 uniqure nv
 unisys
 unit
+united
 united bancorp
 united bancorp 
 united bancshares
 united bankshares
+united community
+united community bancorp
+united community banks
 united continental holdings
-united dominion realty trust
+united dominion realty
 united fire group
 united insurance holdings
 united microelectronics
-united munity
-united munity bancorp
-united munity banks
 united natural foods
 united parcel service
 united rentals
 united security bancshares
 united states antimony
 united states cellular
-united states lime & minerals
+united states lime minerals
 united states steel
-united technologies
 united therapeutics
 united-guardian
-unitedhealth group incorporated
+unitedhealth group
 uniti group
 unitil
 unity bancorp
@@ -5293,17 +5288,17 @@ universal
 universal display
 universal electronics
 universal forest products
-universal health realty ine trust
+universal health realty income
 universal health services
 universal insurance holdings
 universal logistics holdings
 universal security instruments
-universal stainless & alloy products
+universal stainless alloy products
 universal technical institute
 univest of pennsylvania
 unum group
 upland software
-uqm technologies
+uqm
 ur energy
 uranium energy
 urban edge properties
@@ -5321,15 +5316,15 @@ us global investors
 us gold
 us physical therapy
 us silica holdings
-usa pression partners
-usa technologies
+usa
+usa compression partners
 usa truck
 usana health sciences
 usd partners
 usg
-uslife ine fund
+uslife income
 utah medical products
-utstar holdings corp
+utstarcom holdings
 vaalco energy
 vail resorts
 vale sa
@@ -5365,7 +5360,7 @@ vanguard russell 2000 growth etf
 vanguard russell 2000 value etf
 vanguard russell 3000 etf
 vanguard short-term corporate bond etf
-vanguard short-term inflation-protected securities index fund
+vanguard short-term inflation-protected securities index
 vanguard short-term treasury etf
 vanguard total corporate bond etf
 vanguard total international bond etf
@@ -5394,7 +5389,7 @@ velocityshares daily inverse vix medium-term etn
 velocityshares daily inverse vix short-term etn
 velocityshares vix medium-term etn
 velocityshares vix short-term etn
-venator materials plc
+venator materials
 ventas
 ventas realty // ventas corporati
 veon
@@ -5410,22 +5405,22 @@ verisk analytics
 veritex holdings
 veritiv
 veritone
-verizon munications
+verizon communications
 vermilion energy
 vermillion
-verona pharma plc
+verona pharma
 versartis
 verso
 versum materials
 vertex energy
-vertex pharmaceuticals incorporated
+vertex pharmaceuticals
 veru
 vf
-via
-viad corp
+viacom
+viad
 viasat
-viavi solutions
-vical incorporated
+viavi
+vical
 vicon industries
 vicor
 victoryshares developed enhanced volatility wtd etf
@@ -5437,32 +5432,32 @@ victoryshares international volatility wtd etf
 victoryshares us 500 enhanced volatility wtd etf
 victoryshares us 500 volatility wtd etf
 victoryshares us discovery enhanced volatility wtd etf
-victoryshares us eq ine enhanced volatility wtd etf
+victoryshares us eq income enhanced volatility wtd etf
 victoryshares us large cap high div volatility wtd etf
 victoryshares us multi-factor minimum volatility etf
 victoryshares us small cap high div volatility wtd etf
 victoryshares us small cap volatility wtd etf
-vident core us bond strategy fund
+vident core us bond strategy
 vident core us equity etf
-vident international equity fund
+vident international equity
 videocon d2h
 viewray
 viking therapeutics
-village bank and trust
+village bank and
 village super market
 vina concha y toro
 vince holding
 viper energy partners
 vipshop holdings
 virco manufacturing
-virnetx holding corp
-virtu financial
-virtus global dividend & ine fund
-virtus global multi-sector ine fund
+virnetx holding
+virtu
+virtus global dividend income
+virtus global multi-sector income
 virtus investment partners
 virtus lifesci biotech clinical trials etf
 virtus lifesci biotech products etf
-virtus total return fund
+virtus total return
 virtusa
 visa
 vishay intertechnology
@@ -5476,27 +5471,27 @@ vital therapies
 vitamin shoppe
 viveve medical
 vivint solar
-vivopower international plc
+vivopower international
 vivus
 vmware
-voc energy trust
-vocera munications
-vodafone group plc
+voc energy
+vocera communications
+vodafone group
 volitionrx
 volt information sciences
 vonage holdings
-vornado realty trust
+vornado realty
 voxeljet ag
 voxx international
-voya asia pacific high dividend equity ine fund
-voya emerging markets high ine dividend equity fund
-voya financial
-voya global advantage and premium opportunity fund
-voya global equity dividend and premium opportunity fund
-voya infrastructure industrials and materials fund
-voya international high dividend equity ine fund
-voya natural resources equity ine fund
-voya prime rate trust
+voya
+voya asia pacific high dividend equity income
+voya emerging markets high income dividend equity
+voya global advantage and premium opportunity
+voya global equity dividend and premium opportunity
+voya infrastructure industrials and materials
+voya international high dividend equity income
+voya natural resources equity income
+voya prime rate
 voyager therapeutics
 vse
 vtv therapeutics
@@ -5505,30 +5500,30 @@ vuzix
 w&t offshore
 wabash national
 wabco holdings
-waddell & reed financial
+waddell reed
 wageworks
 wal-mart stores
 walgreens boots alliance
-walker & dunlop
+walker dunlop
 walt disney
 walter investment management
 warrior met coal
+washington bancorp
 washington federal
 washington prime group
-washington real estate investment trust
-washington trust bancorp
+washington real estate investment
 waste connections
 waste management
 waters
-waterstone financial
+waterstone
 watsco
-watts water technologies
+watts water
 wave life sciences
 wayfair
-wayside technology group
+wayside group
 wcf bancorp
 wd-40
-weatherford international plc
+weatherford international
 weatherstorm forensic accounting long short etf
 web group
 webster
@@ -5540,11 +5535,11 @@ weis markets
 welbilt
 wellcare health plans
 wellesley bancorp
-wells fargo &
-wells fargo global dividend opportunity fund
-wells fargo ine opportunities fund
-wells fargo multi-sector ine fund
-wells fargo utilities and high ine fund
+wells fargo
+wells fargo global dividend opportunity
+wells fargo income opportunities
+wells fargo multi-sector income
+wells fargo utilities and high income
 welltower
 wendy&#39;s
 werner enterprises
@@ -5555,25 +5550,25 @@ west bancorporation
 west pharmaceutical services
 westamerica bancorporation
 westar energy
-westell technologies
+westell
 western alliance bancorporation
-western asset bond fund
-western asset corporate loan fund
-western asset emerging markets debt fund
-western asset global corporate defined opportunity fund
-western asset global high ine fund
-western asset high ine fund ii
-western asset high ine opportunity fund
-western asset high yield defined opportunity fund
-western asset intermediate muni fund
-western asset investment grade defined opportunity trust
-western asset managed municipals fund
+western asset bond
+western asset corporate loan
+western asset emerging markets debt
+western asset global corporate defined opportunity
+western asset global high income
+western asset high income ii
+western asset high income opportunity
+western asset high yield defined opportunity
+western asset intermediate muni
+western asset investment grade defined opportunity
+western asset managed municipals
 western asset mortgage
-western asset mortgage defined opportunity fund
-western asset municipal defined opportunity trust
-western asset municipal high ine fund
-western asset municipal partners fund
-western asset variable rate strategic fund
+western asset mortgage defined opportunity
+western asset municipal defined opportunity
+western asset municipal high income
+western asset municipal partners
+western asset variable rate strategic
 western asset/claymore us treasury inflation prot secs fd
 western asset/claymore us treasury inflation prot secs fd 2
 western copper and gold
@@ -5582,7 +5577,7 @@ western gas equity partners
 western gas partners
 western new england bancorp
 western union
-westinghouse air brake technologies
+westinghouse air brake
 westlake chemical
 westlake chemical partners
 westmoreland coal
@@ -5597,7 +5592,7 @@ weyco group
 weyerhaeuser
 wgl holdings
 wheaton precious metals
-wheeler real estate investment trust
+wheeler real estate investment
 whirlpool
 white mountains insurance group
 whitehorse finance
@@ -5610,7 +5605,7 @@ wilhelmina international
 willamette valley vineyards
 willbros group
 willdan group
-williams panies
+williams
 williams partners
 williams-sonoma
 willis lease finance
@@ -5623,22 +5618,22 @@ winnebago industries
 wins finance holdings
 wintrust
 wipro
-wireless tele group 
+wireless telecom group 
 wisdomtree barclays interest rate hedged us aggregate bond f
-wisdomtree barclays negative duration us aggregate bond fund
-wisdomtree china ex-state-owned enterprises fund
-wisdomtree emerging markets consumer growth fund
-wisdomtree emerging markets corporate bond fund
-wisdomtree emerging markets quality dividend growth fund
-wisdomtree germany hedged equity fund
-wisdomtree interest rate hedged high yield bond fund
+wisdomtree barclays negative duration us aggregate bond
+wisdomtree china ex-state-owned enterprises
+wisdomtree emerging markets consumer growth
+wisdomtree emerging markets corporate bond
+wisdomtree emerging markets quality dividend growth
+wisdomtree germany hedged equity
+wisdomtree interest rate hedged high yield bond
 wisdomtree investments
-wisdomtree japan hedged smallcap equity fund
-wisdomtree middle east dividend fund
-wisdomtree negative duration high yield bond fund
-wisdomtree united kingdom hedged equity fund
-wisdomtree us quality dividend growth fund
-wisdomtree us smallcap quality dividend growth fund
+wisdomtree japan hedged smallcap equity
+wisdomtree middle east dividend
+wisdomtree negative duration high yield bond
+wisdomtree united kingdom hedged equity
+wisdomtree us quality dividend growth
+wisdomtree us smallcap quality dividend growth
 wix
 wmih
 wns (holdings)
@@ -5653,40 +5648,40 @@ world fuel services
 world wrestling entertainment
 worthington industries
 wp carey
-wpcs international incorporated
-wpp plc
+wpcs international
+wpp
 wpx energy
 wr berkley
-wr grace &
+wr grace
 wright medical group nv
 wsfs
 wsi industries
 wvs
 ww grainger
-wyndham worldwide corp
+wyndham worldwide
 wynn resorts
 x-links crude oil shares covered call etn
 x-links gold shares covered call etn
 x-links silver shares covered call etn
-xai octagon floating rate & alternative ine term trust
+xai octagon floating rate alternative income term
 xbiotech
 xcel brands
 xcel energy
 xcerra
 xencor
 xenetic biosciences
-xenia hotels & resorts
+xenia hotels resorts
 xenon pharmaceuticals
-xerium technologies
+xerium
 xerox
-xg technology
+xg
 xilinx
 xinyuan real estate
 xl group
 xo group
 xoma
 xperi
-xplore technologies corp
+xplore
 xpo logistics
 xpresspa group 
 xtant medical holdings
@@ -5720,16 +5715,16 @@ zai lab
 zais group holdings
 zayo group holdings
 zealand pharma a/s
-zebra technologies
+zebra
 zedge
 zendesk
 zillow group
 zimmer biomet holdings
-zion oil & gas
+zion oil gas
 zions bancorporation
 ziopharm oncology
 zix
-zk international group co
+zk international group
 zoe&#39;s kitchen
 zoetis
 zogenix
