@@ -181,7 +181,7 @@ alexandria real estate equities
 alexco resource
 alexion pharmaceuticals
 algonquin power utilities
-alibaba group holding
+alibaba
 alico
 align
 alimera sciences
@@ -4182,7 +4182,6 @@ pool
 pope resources
 popular
 porter bancorp
-portland general electric
 portola pharmaceuticals
 posco
 post holdings
