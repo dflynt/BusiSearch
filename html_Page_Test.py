@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from search import Search
 import requests
 import pprint
+
 text = []
 page = requests.get("http://money.cnn.com/2018/01/03/investing/ipo-new-york-wall-street-hong-kong/index.html")
 soup = BeautifulSoup(page.content, "html.parser")
